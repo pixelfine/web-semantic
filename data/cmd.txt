@@ -1,0 +1,8 @@
+//Exemple de ligne de commande
+
+Jena_project -r C:\Users\Clinu\OneDrive\Bureau\bds_3\data\test2\youtube.ttl -s C:\Users\Clinu\OneDrive\Bureau\bds_3\data\test2\youtube_schema.ttl -q C:\Users\Clinu\OneDrive\Bureau\bds_3\data\test2\constructQuery.sparql
+
+
+//Exemple de ligne de commande stoquant l'output dans C:\Users\Clinu\OneDrive\Bureau\bds_3\data\test2\output
+
+Jena_project -r C:\Users\Clinu\OneDrive\Bureau\bds_3\data\test2\youtube.ttl -s C:\Users\Clinu\OneDrive\Bureau\bds_3\data\test2\youtube_schema.ttl -q C:\Users\Clinu\OneDrive\Bureau\bds_3\data\test2\constructQuery.sparql -o C:\Users\Clinu\OneDrive\Bureau\bds_3\data\test2\output

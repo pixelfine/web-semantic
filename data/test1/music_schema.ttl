@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://example.com/vocabulary/> .
+
+# TBox
+
+ex:Instrument
+      a rdfs:Class ;
+      rdfs:label "musical instrument" .
+
+ex:Person rdf:type rdfs:Class .
+
+ex:Musician
+      rdf:type rdfs:Class ;
+      rdfs:label "Musician" ;
+      rdfs:comment "Someone who plays a musical instrument" ;
+      rdfs:subClassOf ex:Person .
+
+ex:hasName 
+  rdf:type rdf:Property ;
+  rdfs:range rdfs:Literal .
+
+ex:playsInstrument
+      rdf:type rdf:Property ;
+      rdfs:comment "Identifies the instrument that someone plays" ;
+      rdfs:label "plays instrument" ;
+      rdfs:domain ex:Musician ;
+      rdfs:range ex:Instrument .  

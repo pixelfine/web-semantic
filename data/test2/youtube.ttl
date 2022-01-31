@@ -1,0 +1,53 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+@prefix ex: <http://example.com/vocabulary/> .
+@prefix youtube: <https://www.youtube.com/> .
+@prefix author: <https://www.youtube.com/channel/> .
+@prefix watch: <https://www.youtube.com/watch?v=> .
+@prefix list: <https://www.youtube.com/playlist?list=> .
+
+ex:UCxuipVSw8ajLZPgSyKmw6Ag
+	a ex:Channel ;
+	ex:link author:UCxuipVSw8ajLZPgSyKmw6Ag ;
+	ex:hasName "saito_naoki" .
+
+ex:UCQVhrypJhw1HxuRV4gX6hoQ
+	a ex:Channel ;
+	ex:link author:UCQVhrypJhw1HxuRV4gX6hoQ ;
+	ex:hasName "あいみょん" .
+
+ex:PLq1DbqqC6xIsjxSPksPztIVDj-vBsu9ev
+	a ex:Playlist ;
+	ex:link list:PLq1DbqqC6xIsjxSPksPztIVDj-vBsu9ev ;
+	ex:hasName "気まぐれ添削" ;
+	ex:belongs "saito_naoki" .
+
+ex:X3FUGJvF-tk
+	a ex:Video ;
+	ex:link watch:X3FUGJvF-tk ;
+	ex:hasName "【気まぐれ添削80】素人っぽさを無くす描き方とは？" ;
+	ex:belongs "saito_naoki" .
+
+ex:xVWaS0vmzmw
+	a ex:Video ;
+	ex:link watch:xVWaS0vmzmw ;
+	ex:hasName "【原神】プロなら1ミリも知らないキャラ　ヒントだけで完璧に描ける説！！！" ;
+	ex:belongs "saito_naoki" .
+
+ex:9ZK4WKzNkEU
+	a ex:Video ;
+	ex:link watch:9ZK4WKzNkEU ;
+	ex:hasName "Girl's cat smacks her in the face when she tried to talk to him." .
+
+ex:0xSiBpUdW4E
+	a ex:Video ;
+	ex:link watch:0xSiBpUdW4E ;
+	ex:hasName "あいみょん - マリーゴールド【OFFICIAL MUSIC VIDEO】" ;
+	ex:belongs "あいみょん" .
+
+ex:UnknownID 
+	ex:isVideo ex:UnknownID ;
+	ex:link watch:UnknownID ;
+	ex:hasName "UnknownName";
+	a ex:ID .

@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://example.com/vocabulary/> .
+
+# ABox
+
+ex:flute
+  rdf:type ex:Instrument ;
+  ex:hasName "flute" .
+
+ex:piano
+  rdf:type ex:Instrument ;
+  ex:hasName "piano" .
+
+ex:0
+  rdf:type ex:Musician ;
+  ex:hasName "alice" ;
+  ex:playsInstrument ex:flute .
+
+ex:1
+  rdf:type ex:Person ;
+  ex:hasName "bob" ;
+  ex:playsInstrument ex:flute .
+
+ex:2
+  rdf:type ex:Musician ;
+  ex:hasName "charlie" ;
+  ex:playsInstrument ex:piano .
+
+ex:3
+  rdf:type ex:Person ;
+  ex:hasName "dave" .

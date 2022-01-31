@@ -1,0 +1,2 @@
+( ?person = <http://example.com/vocabulary/1> )
+( ?person = <http://example.com/vocabulary/3> )

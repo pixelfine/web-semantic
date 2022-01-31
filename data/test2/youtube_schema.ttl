@@ -1,0 +1,40 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+@prefix ex: <http://example.com/vocabulary/> .
+@prefix youtube: <https://www.youtube.com/> .
+@prefix author: <https://www.youtube.com/channel/> .
+@prefix watch: <https://www.youtube.com/watch?v=> .
+@prefix list: <https://www.youtube.com/playlist?list=> .
+
+ex:ID 
+	a rdfs:Class .
+
+ex:Channel 
+	a rdfs:Class ;
+	rdfs:subClassOf ex:ID .
+
+ex:Video
+	a rdfs:Class ;
+	rdfs:subClassOf ex:ID .
+
+ex:Playlist
+	a rdfs:Class ;
+	rdfs:subClassOf ex:ID .
+
+ex:hasName 
+	rdf:type rdf:Property ;
+	rdfs:range rdfs:Literal .
+
+ex:link 
+	rdf:type rdf:Property ;
+	rdfs:range rdfs:Literal .
+
+ex:belongs
+	rdf:type rdf:Property ;
+	rdfs:range rdfs:Literal .
+
+ex:isVideo 
+	rdf:type rdf:Property ;
+	rdfs:domain ex:ID ;
+    rdfs:range ex:Video . 

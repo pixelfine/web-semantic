@@ -1,0 +1,886 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Airshow_(album)>	rdf:type	yago:Album106591815 ,
+		yago:Wikicat2006Albums ,
+		yago:Medium106254669 ,
+		yago:WikicatQDivisionRecordsAlbums ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Airshow_(album)>	rdf:type	owl:Thing .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Airshow_(album)>	rdf:type	dbo:Album ,
+		yago:Artifact100021939 ,
+		yago:Instrumentality103575240 ,
+		yago:Whole100003553 ,
+		<http://dbpedia.org/class/yago/WikicatFrancine(band)Albums> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Airshow_(album)>	rdfs:label	"Airshow (album)"@en .
+@prefix ns5:	<http://musicbrainz.org/release-group/> .
+<http://dbpedia.org/resource/Airshow_(album)>	owl:sameAs	ns5:de09a2e8-6dbd-33be-860c-9bd5e03d63e9 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Airshow_(album)>	owl:sameAs	wikidata:Q4699004 ,
+		<http://yago-knowledge.org/resource/Airshow_(album)> ,
+		<http://rdf.freebase.com/ns/m.01sd3l0> ,
+		<https://global.dbpedia.org/id/4N9rH> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/Airshow_(album)>	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Rowland,_lord_Hill.jpg> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/Airshow_(album)>	dct:subject	<http://dbpedia.org/resource/Category:2006_albums> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Airshow_(album)>	dct:subject	dbc:Q_Division_Records_albums ,
+		<http://dbpedia.org/resource/Category:Francine_(band)_albums> ;
+	dbo:wikiPageID	16595664 ;
+	dbo:wikiPageRevisionID	1033439230 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Francine_(band)> ,
+		<http://dbpedia.org/resource/Category:2006_albums> ,
+		dbc:Q_Division_Records_albums ,
+		<http://dbpedia.org/resource/Category:Francine_(band)_albums> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Francine_(band)> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+<http://dbpedia.org/resource/Airshow_(album)>	dbp:wikiPageUsesTemplate	dbt:Authority_control .
+@prefix gold:	<http://purl.org/linguistics/gold/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Airshow_(album)>	gold:hypernym	dbr:LP .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Airshow_(album)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Airshow_(album)?oldid=1033439230&ns=0> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Airshow_(album)>	dbo:wikiPageLength	"153"^^xsd:nonNegativeInteger ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Airshow_(album)> .
+@prefix ns16:	<http://dbpedia.org/resource/Airut:> .
+ns16:aamujen	rdf:type	owl:Thing ,
+		dbo:Album .
+@prefix schema:	<http://schema.org/> .
+ns16:aamujen	rdf:type	schema:MusicAlbum ,
+		schema:CreativeWork ,
+		wikidata:Q2188189 ,
+		wikidata:Q482994 ,
+		wikidata:Q386724 ,
+		dbo:Work ,
+		dbo:MusicalWork ;
+	rdfs:label	"Airut:aamujen"@en ,
+		"Airut:aamujen"@nl ;
+	rdfs:comment	"Airut:aamujen is het vierde album van de Finse progressieve folk band Tenhi, en het tweede deel uit de Airut-saga. Het album was oorspronkelijk uitgebracht op het eigen label van de band, UTUstudio, under de naam Harmaa. In oktober 2006 is het album opnieuw uitgebracht door het Duitse label ."@nl ,
+		"Airut:aamujen is the fourth full-length album by Tenhi and the second part in their Airut-saga. The album was initially released in 2004 through the band's own label, Utustudio, under the name Harmaa instead of Tenhi. In October 2006 the album was re-released under the name Tenhi through the German label Prophecy Productions."@en .
+@prefix ns18:	<http://nl.dbpedia.org/resource/Airut:> .
+ns16:aamujen	owl:sameAs	ns18:aamujen ,
+		wikidata:Q2432680 ,
+		<http://rdf.freebase.com/ns/m.03g1b2y> ,
+		ns5:b8f4ceb0-ef4d-3810-8631-ae3029965b8d .
+@prefix ns19:	<http://fi.dbpedia.org/resource/Airut:> .
+ns16:aamujen	owl:sameAs	ns19:aamujen ,
+		<https://global.dbpedia.org/id/2J88t> ;
+	dbp:name	"Airut:aamujen"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/AirutAamujenTenhi.jpg> ;
+	dct:subject	<http://dbpedia.org/resource/Category:2004_albums> ,
+		dbc:Tenhi_albums ;
+	dbo:wikiPageID	7581978 ;
+	dbo:wikiPageRevisionID	1012217356 ;
+	dbo:wikiPageWikiLink	dbc:Tenhi_albums ,
+		dbr:Tenhi ,
+		dbr:Utustudio ,
+		dbr:Dark_folk ,
+		dbr:Prophecy_Productions ,
+		<http://dbpedia.org/resource/Maa\u00E4et> ,
+		dbr:Finnish_language ,
+		<http://dbpedia.org/resource/Category:2004_albums> ;
+	dbp:wikiPageUsesTemplate	dbt:Authority_control ,
+		<http://dbpedia.org/resource/Template:2000s-folk-album-stub> ,
+		dbt:Proper_name ,
+		dbt:Infobox_album ;
+	gold:hypernym	dbr:Album ;
+	dbp:artist	dbr:Tenhi ;
+	dbp:cover	"AirutAamujenTenhi.jpg"@en ;
+	dbp:genre	dbr:Dark_folk ;
+	dbp:label	dbr:Prophecy_Productions ,
+		dbr:Utustudio .
+@prefix dbd:	<http://dbpedia.org/datatype/> .
+ns16:aamujen	dbp:length	"3139.0"^^dbd:second ;
+	dbp:nextTitle	"Folk Aesthetic 1996-2006"@en ;
+	dbp:nextYear	2007 ;
+	dbp:prevTitle	<http://dbpedia.org/resource/Maa\u00E4et> ;
+	dbp:prevYear	2006 ;
+	dbp:recorded	2004 ;
+	dbp:released	2004 ;
+	dbp:type	"studio"@en ;
+	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Airut:aamujen?oldid=1012217356&ns=0> ;
+	dbo:wikiPageLength	"2578"^^xsd:nonNegativeInteger ;
+	dbo:abstract	"Airut:aamujen is the fourth full-length album by Tenhi and the second part in their Airut-saga. The album was initially released in 2004 through the band's own label, Utustudio, under the name Harmaa instead of Tenhi. In October 2006 the album was re-released under the name Tenhi through the German label Prophecy Productions. Airut:aamujen (\"The Harbinger of Dawns\" in Finnish) differs from other Tenhi albums by being nearly entirely played on piano, bass and drums (acoustic guitar and synthesizer make only brief and subtle appearances and are not even mentioned in the booklet). The band has stated that the song Kielo on Tenhi's minialbum Airut:ciwi (the first part of the Airut-saga) was the basis for the mood and style of Airut:aamujen."@en ,
+		"Airut:aamujen is het vierde album van de Finse progressieve folk band Tenhi, en het tweede deel uit de Airut-saga. Het album was oorspronkelijk uitgebracht op het eigen label van de band, UTUstudio, under de naam Harmaa. In oktober 2006 is het album opnieuw uitgebracht door het Duitse label . Airut:Aamujen (De aankondiger der ochtenden, in het Fins) verschilt van andere Tenhi albums door het vrijwel exclusieve gebruik van enkel piano, drums en bas (de akoestische gitaar en de synthesizer maken slechts korte verschijningen en worden niet genoemd in de credits). De band heeft verkondigt dan het nummber Kielo' op Tenhi's ep Airut:Ciwi (het eerste deel uit het saga) de basis was voor de toon en stijl van Airut:Aamujen."@nl .
+@prefix ns21:	<http://en.wikipedia.org/wiki/Airut:> .
+ns16:aamujen	foaf:isPrimaryTopicOf	ns21:aamujen .
+dbr:Aishiteiru_to_Ittekure	rdf:type	yago:Wikicat1978Albums ,
+		schema:CreativeWork ,
+		schema:MusicAlbum ,
+		wikidata:Q2188189 ,
+		wikidata:Q386724 ,
+		wikidata:Q482994 ,
+		yago:Instrumentality103575240 ,
+		dbo:MusicalWork ,
+		dbo:Work ,
+		owl:Thing ,
+		yago:Artifact100021939 ,
+		dbo:Album ,
+		yago:WikicatPonyCanyonAlbums ,
+		yago:Album106591815 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Medium106254669 ,
+		yago:Whole100003553 ,
+		yago:WikicatMiyukiNakajimaAlbums ;
+	rdfs:label	"Aishiteiru to Ittekure"@fr ,
+		"\u611B\u3057\u3066\u3044\u308B\u3068\u4E91\u3063\u3066\u304F\u308C"@ja ,
+		"Aishiteiru to Ittekure"@en ;
+	rdfs:comment	"Aishiteiru to Ittekure (\u611B\u3057\u3066\u3044\u308B\u3068\u4E91\u3063\u3066\u304F\u308C) is the fourth studio album by Japanese singer-songwriter Miyuki Nakajima, released in April 1978. Five months before the album came out, she topped on the Oricon singles chart with a song \"The Parting Song (Wakareuta)\", which was released as her fifth single in September 1977. The album features her commercial breakthrough single and another well-known song, \"World's Context (Sejou)\". The latter was later featured in the second series of TV drama Kimpachi Sensei aired on TBS in 1980, and became known widely as one of her signature songs."@en ,
+		"Aishiteiru to Ittekure (\u611B\u3057\u3066\u3044\u308B\u3068\u4E91\u3063\u3066\u304F\u308C) est le quatri\u00E8me album studio de Miyuki Nakajima sorti en avril 1978."@fr ,
+		"\u300E\u611B\u3057\u3066\u3044\u308B\u3068\u4E91\u3063\u3066\u304F\u308C\u300F\uFF08\u3042\u3044\u3057\u3066\u3044\u308B\u3068\u3044\u3063\u3066\u304F\u308C\uFF09\u306F\u30011978\u5E744\u670810\u65E5\u306B\u767A\u8868\u3055\u308C\u305F\u3001\u4E2D\u5CF6\u307F\u3086\u304D\u306E4\u4F5C\u76EE\u306E\u30AA\u30EA\u30B8\u30CA\u30EB\u30A2\u30EB\u30D0\u30E0\u3067\u3042\u308B\u3002"@ja ;
+	owl:sameAs	<https://global.dbpedia.org/id/2daEA> ,
+		<http://ja.dbpedia.org/resource/\u611B\u3057\u3066\u3044\u308B\u3068\u4E91\u3063\u3066\u304F\u308C> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Aishiteiru_to_Ittekure	owl:sameAs	yago-res:Aishiteiru_to_Ittekure ,
+		wikidata:Q2828771 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Aishiteiru_to_Ittekure	owl:sameAs	dbpedia-fr:Aishiteiru_to_Ittekure ,
+		<http://rdf.freebase.com/ns/m.04q2tbh> ,
+		<http://musicbrainz.org/release-group/98d63194-826c-3a1f-b6d4-4cbf24c45657> ;
+	dbp:name	"Aishiteiru to Ittekure"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Ittekure.jpg> ;
+	dct:subject	dbc:Pony_Canyon_albums ,
+		dbc:Miyuki_Nakajima_albums ,
+		<http://dbpedia.org/resource/Category:1978_albums> ;
+	dbo:wikiPageID	19872655 ;
+	dbo:wikiPageRevisionID	999372202 ;
+	dbo:wikiPageWikiLink	dbr:A_Ri_Ga_To_U ,
+		dbr:Folk_music ,
+		<http://dbpedia.org/resource/Canyon_Records_(Japan)> ,
+		dbr:The_Parting_Song ,
+		dbc:Pony_Canyon_albums ,
+		dbr:Oricon ,
+		dbr:Miyuki_Nakajima ,
+		dbr:Poetry_reading ,
+		dbr:Background_music ,
+		dbc:Miyuki_Nakajima_albums ,
+		dbr:Kimpachi_Sensei ,
+		<http://dbpedia.org/resource/Category:1978_albums> ,
+		dbr:Signature_song ,
+		dbr:Shin-ai_Naru_Mono_e ,
+		<http://dbpedia.org/resource/C\u00E9sar_Franck> ;
+	dbp:wikiPageUsesTemplate	dbt:Authority_control ,
+		dbt:Nihongo ,
+		dbt:Infobox_album ,
+		dbt:Reflist ,
+		dbt:Miyuki_Nakajima ;
+	gold:hypernym	dbr:Album ;
+	dbp:artist	dbr:Miyuki_Nakajima ;
+	dbp:cover	"Ittekure.jpg"@en ;
+	dbp:genre	dbr:Folk_music ;
+	dbp:label	"AARD-VARK/Canyon, Yamaha Music Communications"@en ;
+	dbp:length	"2400.0"^^dbd:second ;
+	dbp:nextTitle	dbr:Shin-ai_Naru_Mono_e ;
+	dbp:nextYear	1979 ;
+	dbp:prevTitle	dbr:A_Ri_Ga_To_U ;
+	dbp:prevYear	1977 ;
+	dbp:producer	"Genichi Kawakami"@en ;
+	dbp:recorded	"Epicurus and the Hit Studios, Tokyo, Japan"@en ;
+	dbp:released	"1978-04-10"^^xsd:date ;
+	dbp:type	"Album"@en ;
+	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Aishiteiru_to_Ittekure?oldid=999372202&ns=0> ;
+	dbo:wikiPageLength	"4383"^^xsd:nonNegativeInteger ;
+	dbo:abstract	"\u300E\u611B\u3057\u3066\u3044\u308B\u3068\u4E91\u3063\u3066\u304F\u308C\u300F\uFF08\u3042\u3044\u3057\u3066\u3044\u308B\u3068\u3044\u3063\u3066\u304F\u308C\uFF09\u306F\u30011978\u5E744\u670810\u65E5\u306B\u767A\u8868\u3055\u308C\u305F\u3001\u4E2D\u5CF6\u307F\u3086\u304D\u306E4\u4F5C\u76EE\u306E\u30AA\u30EA\u30B8\u30CA\u30EB\u30A2\u30EB\u30D0\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"Aishiteiru to Ittekure (\u611B\u3057\u3066\u3044\u308B\u3068\u4E91\u3063\u3066\u304F\u308C) est le quatri\u00E8me album studio de Miyuki Nakajima sorti en avril 1978."@fr ,
+		"Aishiteiru to Ittekure (\u611B\u3057\u3066\u3044\u308B\u3068\u4E91\u3063\u3066\u304F\u308C) is the fourth studio album by Japanese singer-songwriter Miyuki Nakajima, released in April 1978. Five months before the album came out, she topped on the Oricon singles chart with a song \"The Parting Song (Wakareuta)\", which was released as her fifth single in September 1977. The album features her commercial breakthrough single and another well-known song, \"World's Context (Sejou)\". The latter was later featured in the second series of TV drama Kimpachi Sensei aired on TBS in 1980, and became known widely as one of her signature songs. Aishiteiru to Ittekure has been her longest charting album on the Oricon, because the album re-entered the chart when \"World's Context\" was featured on TV program in the early 1980s."@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Aishiteiru_to_Ittekure	foaf:isPrimaryTopicOf	wikipedia-en:Aishiteiru_to_Ittekure .
+dbr:Aisthiseis	rdf:type	dbo:MusicalWork ,
+		yago:Medium106254669 ,
+		dbo:Work ,
+		yago:Artifact100021939 ,
+		wikidata:Q482994 ,
+		wikidata:Q386724 ,
+		wikidata:Q2188189 ,
+		schema:MusicAlbum ,
+		schema:CreativeWork ,
+		yago:WikicatMinosEMIAlbums ,
+		yago:Instrumentality103575240 ,
+		owl:Thing ,
+		dbo:Album ,
+		yago:WikicatGreek-languageAlbums ,
+		<http://dbpedia.org/class/yago/WikicatMando(singer)Albums> ,
+		yago:Album106591815 ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Wikicat1992Albums ;
+	rdfs:label	"Aisthiseis"@en ;
+	rdfs:comment	"Aisthiseis is an album by the Greek singer Mando. It was released in Greece in 1992 by Minos EMI. \"Aisthiseis\" was nominated for an award by Pop Corn magazine and sustained the success that Mando had established with her previous albums."@en ;
+	owl:sameAs	wikidata:Q4699221 ,
+		<http://rdf.freebase.com/ns/m.047bx_g> ,
+		yago-res:Aisthiseis ,
+		<https://global.dbpedia.org/id/4N2D6> ;
+	dbp:name	"Aisthiseis"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/esthisis.jpg> ;
+	dct:subject	dbc:Greek-language_albums ,
+		<http://dbpedia.org/resource/Category:1992_albums> ,
+		dbc:Minos_EMI_albums ,
+		<http://dbpedia.org/resource/Category:Mando_(singer)_albums> ;
+	dbo:wikiPageID	17837430 ;
+	dbo:wikiPageRevisionID	999372234 ;
+	dbo:wikiPageWikiLink	dbr:Pop_music ,
+		dbr:I_Diki_Mas_I_Agapi ,
+		dbr:Dance_music ,
+		dbr:Studio_album ,
+		dbc:Greek-language_albums ,
+		<http://dbpedia.org/resource/Category:1992_albums> ,
+		dbc:Minos_EMI_albums ,
+		dbr:Kinisi_Triti ,
+		<http://dbpedia.org/resource/Mando_(singer)> ,
+		dbr:Minos_EMI ,
+		<http://dbpedia.org/resource/Category:Mando_(singer)_albums> ;
+	dbp:wikiPageUsesTemplate	dbt:Reflist ,
+		dbt:Infobox_album ,
+		<http://dbpedia.org/resource/Template:1990s-pop-album-stub> ,
+		dbt:Authority_control ;
+	gold:hypernym	dbr:Album ;
+	dbp:artist	<http://dbpedia.org/resource/Mando_(singer)> ;
+	dbp:cover	"esthisis.jpg"@en ;
+	dbp:genre	dbr:Pop_music ,
+		dbr:Dance_music ;
+	dbp:label	dbr:Minos_EMI ;
+	dbp:nextTitle	dbr:I_Diki_Mas_I_Agapi ;
+	dbp:nextYear	1993 ;
+	dbp:prevTitle	dbr:Kinisi_Triti ;
+	dbp:prevYear	1991 ;
+	dbp:producer	"Minos Machas"@en ;
+	dbp:released	1992 ;
+	dbp:studio	"Polysound Studios"@en ;
+	dbp:type	dbr:Studio_album ;
+	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Aisthiseis?oldid=999372234&ns=0> ;
+	dbo:wikiPageLength	"1450"^^xsd:nonNegativeInteger ;
+	dbo:abstract	"Aisthiseis is an album by the Greek singer Mando. It was released in Greece in 1992 by Minos EMI. \"Aisthiseis\" was nominated for an award by Pop Corn magazine and sustained the success that Mando had established with her previous albums."@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Aisthiseis .
+dbr:Aisubeki_Mirai_e	rdf:type	dbo:Work ,
+		dbo:MusicalWork ,
+		yago:Medium106254669 ,
+		wikidata:Q386724 ,
+		wikidata:Q482994 ,
+		yago:Artifact100021939 ,
+		wikidata:Q2188189 ,
+		yago:Instrumentality103575240 ,
+		schema:CreativeWork ,
+		schema:MusicAlbum ,
+		yago:WikicatAlbumsByJapaneseArtists ,
+		owl:Thing ,
+		yago:Wikicat2009Albums ,
+		dbo:Album ,
+		yago:Album106591815 ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ;
+	rdfs:label	"\uC0AC\uB791\uD574\uC57C \uD560 \uBBF8\uB798\uC5D0"@ko ,
+		"Aisubeki Mirai e"@en ,
+		"Aisubeki mirai e"@es ,
+		"\u7D66\u73CD\u611B\u7684\u672A\u4F86"@zh ,
+		"Ai Subeki Mirai e"@pt ,
+		"\u611B\u3059\u3079\u304D\u672A\u6765\u3078"@ja ;
+	rdfs:comment	"Aisubeki Mirai e (\u611B\u3059\u3079\u304D\u672A\u6765\u3078 ''Aisubeki Mirai e''? \"Para el futuro adorable\") es el s\u00E9ptimo \u00E1lbum de estudio de la banda japonesa Exile, que fue lanzado el 2 de diciembre de 2009 bajo su discogr\u00E1fica Rhythm Zone. Tambi\u00E9n es su primer \u00E1lbum de estudio realizado por 14 miembros. El \u00E1lbum incluye canciones de sus sencillos \"Ti Amo,\" \"Someday,\" \"Fireworks\" y \"Futatsu no Kuchibiru.\" \"Ti Amo\" y \"Someday\" ganaron los premios grand prix en el y respectivamente."@es ,
+		"\u300A\u7D66\u73CD\u611B\u7684\u672A\u4F86\u300B\uFF08\u611B\u3059\u3079\u304D\u672A\u6765\u3078\uFF09\u70BA\u65E5\u672C\u5718\u9AD4EXILE\u65BC2009\u5E7412\u67082\u65E5\u767C\u884C\u4E4B7th\u9304\u97F3\u5BA4\u5C08\u8F2F\u3002"@zh ,
+		"\u300E\u611B\u3059\u3079\u304D\u672A\u6765\u3078\u300F\uFF08\u3042\u3044\u3059\u3079\u304D\u307F\u3089\u3044\u3078\uFF09\u306F\u3001EXILE\u306E7\u679A\u76EE\u306E\u30AA\u30EA\u30B8\u30CA\u30EB\u30A2\u30EB\u30D0\u30E0\u30022009\u5E7412\u67082\u65E5\u306Brhythm zone\u304B\u3089\u767A\u58F2\u3002"@ja ,
+		"Aisubeki Mirai e (\u611B\u3059\u3079\u304D\u672A\u6765\u3078, lit. \"To the Lovable Future\") is the seventh studio album by Japanese group Exile, released by Rhythm Zone on December 2, 2009. It is also their first studio album performed by 14 members. The album includes their CD singles' title tunes \"Ti Amo,\" \"Someday,\" \"Fireworks\" and \"Futatsu no Kuchibiru.\" \"Ti Amo\" and \"Someday\" won the grand prix awards at the 50th and 51st Japan Record Awards respectively."@en ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.09gpyqz> ,
+		wikidata:Q1076375 ,
+		<http://ja.dbpedia.org/resource/\u611B\u3059\u3079\u304D\u672A\u6765\u3078> ,
+		yago-res:Aisubeki_Mirai_e ,
+		<https://global.dbpedia.org/id/9k3i> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Aisubeki_Mirai_e	owl:sameAs	dbpedia-es:Aisubeki_mirai_e ,
+		<http://zh.dbpedia.org/resource/\u7D66\u73CD\u611B\u7684\u672A\u4F86> ,
+		ns5:a994cb0a-a2d1-4e28-bc1f-44ea3b3eff57 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Aisubeki_Mirai_e	owl:sameAs	dbpedia-pt:Ai_Subeki_Mirai_e ,
+		<http://ko.dbpedia.org/resource/\uC0AC\uB791\uD574\uC57C_\uD560_\uBBF8\uB798\uC5D0> ;
+	dbp:name	"Aisubeki Mirai e"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Ai_Subeki_Mirai_E.jpeg> ;
+	dct:subject	<http://dbpedia.org/resource/Category:Exile_(Japanese_band)_albums> ,
+		<http://dbpedia.org/resource/Category:2009_albums> ;
+	dbo:wikiPageID	25332339 ;
+	dbo:wikiPageRevisionID	999372236 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/50th_Japan_Record_Awards> ,
+		dbr:Max_Matsuura ,
+		<http://dbpedia.org/resource/51st_Japan_Record_Awards> ,
+		<http://dbpedia.org/resource/Category:Exile_(Japanese_band)_albums> ,
+		dbr:Oricon ,
+		dbr:Rhythm_Zone ,
+		dbr:CD_single ,
+		<http://dbpedia.org/resource/Exile_(Japanese_band)> ,
+		<http://dbpedia.org/resource/Category:2009_albums> ,
+		<http://dbpedia.org/resource/Contemporary_R&B> ,
+		dbr:Pop_music ;
+	dbp:wikiPageUsesTemplate	dbt:Reflist ,
+		dbt:Nihongo ,
+		dbt:Infobox_album ,
+		dbt:Authority_control ,
+		<http://dbpedia.org/resource/Template:2009-album-stub> ;
+	gold:hypernym	dbr:Album ;
+	dbp:artist	<http://dbpedia.org/resource/Exile_(Japanese_band)> ;
+	dbp:cover	"Ai Subeki Mirai E.jpeg"@en ;
+	dbp:genre	<http://dbpedia.org/resource/Contemporary_R&B> ,
+		dbr:Pop_music ;
+	dbp:label	dbr:Rhythm_Zone ;
+	dbp:length	"4261.0"^^dbd:second ;
+	dbp:nextTitle	"Negai no T\u014D"@en ;
+	dbp:nextYear	2011 ;
+	dbp:prevTitle	"Exile Ballad Best"@en ;
+	dbp:prevYear	2008 ;
+	dbp:producer	"Exile, Max Matsuura"@en ;
+	dbp:recorded	2008 ;
+	dbp:released	"2009-12-02"^^xsd:date ;
+	dbp:type	"studio album"@en ;
+	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Aisubeki_Mirai_e?oldid=999372236&ns=0> ;
+	dbo:wikiPageLength	"2705"^^xsd:nonNegativeInteger ;
+	dbo:abstract	"\u300E\u611B\u3059\u3079\u304D\u672A\u6765\u3078\u300F\uFF08\u3042\u3044\u3059\u3079\u304D\u307F\u3089\u3044\u3078\uFF09\u306F\u3001EXILE\u306E7\u679A\u76EE\u306E\u30AA\u30EA\u30B8\u30CA\u30EB\u30A2\u30EB\u30D0\u30E0\u30022009\u5E7412\u67082\u65E5\u306Brhythm zone\u304B\u3089\u767A\u58F2\u3002"@ja ,
+		"Aisubeki Mirai e (\u611B\u3059\u3079\u304D\u672A\u6765\u3078 ''Aisubeki Mirai e''? \"Para el futuro adorable\") es el s\u00E9ptimo \u00E1lbum de estudio de la banda japonesa Exile, que fue lanzado el 2 de diciembre de 2009 bajo su discogr\u00E1fica Rhythm Zone. Tambi\u00E9n es su primer \u00E1lbum de estudio realizado por 14 miembros. El \u00E1lbum incluye canciones de sus sencillos \"Ti Amo,\" \"Someday,\" \"Fireworks\" y \"Futatsu no Kuchibiru.\" \"Ti Amo\" y \"Someday\" ganaron los premios grand prix en el y respectivamente. Aisubeki Mirai e debut\u00F3 en el puesto n\u00FAmero uno en el Oricon daily album charts con una venta de alrededor de 229 000 copias en su primer d\u00EDa.\u200B Con las ventas semanales de alrededor de 730 000 copias, tambi\u00E9n debut\u00F3 en la posici\u00F3n n\u00FAmero uno en las listas de Oricon weekly album charts.\u200B Aisubeki Mirai e fue certficado Million por the Recording Industry Association of Japan por el envi\u00F3 de 1 000 000 de copias.\u200B"@es ,
+		"\u300A\u7D66\u73CD\u611B\u7684\u672A\u4F86\u300B\uFF08\u611B\u3059\u3079\u304D\u672A\u6765\u3078\uFF09\u70BA\u65E5\u672C\u5718\u9AD4EXILE\u65BC2009\u5E7412\u67082\u65E5\u767C\u884C\u4E4B7th\u9304\u97F3\u5BA4\u5C08\u8F2F\u3002"@zh ,
+		"Aisubeki Mirai e (\u611B\u3059\u3079\u304D\u672A\u6765\u3078, lit. \"To the Lovable Future\") is the seventh studio album by Japanese group Exile, released by Rhythm Zone on December 2, 2009. It is also their first studio album performed by 14 members. The album includes their CD singles' title tunes \"Ti Amo,\" \"Someday,\" \"Fireworks\" and \"Futatsu no Kuchibiru.\" \"Ti Amo\" and \"Someday\" won the grand prix awards at the 50th and 51st Japan Record Awards respectively. Aisubeki Mirai e debuted at the number-one position on the Japanese Oricon daily album charts with the sales of around 229,000 copies in the first day. With the weekly sales of around 730,000 copies, it also debuted at the number-one position on the Oricon weekly album charts. Aisubeki Mirai e was certified Million by the Recording Industry Association of Japan for the shipment of 1,000,000 copies."@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Aisubeki_Mirai_e .
+dbr:Aitara	rdf:type	owl:Thing ,
+		yago:PhysicalEntity100001930 ,
+		yago:Whole100003553 ,
+		yago:Medium106254669 ,
+		yago:Wikicat1994Albums ,
+		wikidata:Q2188189 ,
+		schema:CreativeWork ,
+		dbo:Album ,
+		schema:MusicAlbum ,
+		dbo:Work ,
+		dbo:MusicalWork ,
+		wikidata:Q386724 ,
+		wikidata:Q482994 ,
+		yago:Artifact100021939 ,
+		yago:Album106591815 ,
+		yago:Instrumentality103575240 ,
+		<http://dbpedia.org/class/yago/WikicatV\u00E4rttin\u00E4Albums> ,
+		yago:Object100002684 ;
+	rdfs:label	"Aitara"@en ;
+	rdfs:comment	"Aitara is V\u00E4rttin\u00E4's 5th album, released in 1994 in Finland. In 1995, it was released by King Records in Japan, in Benelux, and Xenophile Records in the United States, where it spent five weeks at #1 on the CMJ World Music charts. In 2003, it was re-released in Finland by BMG, and has been re-released in the U.S. by NorthSide. Aitara was named \"Best Contemporary World Music Album\" by the National Association of Independent Record Distributors. For their second video, V\u00E4rttin\u00E4 used \"Y\u00F6tulet\" from this album."@en .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Aitara	owl:sameAs	dbpedia-fi:Aitara ,
+		wikidata:Q4699287 ,
+		<http://rdf.freebase.com/ns/m.01m5nw0> ,
+		<http://musicbrainz.org/release-group/813e77be-f191-34e2-90da-98d9d42a02e6> ,
+		yago-res:Aitara ,
+		<https://global.dbpedia.org/id/4MgJp> ;
+	dbp:name	"Aitara"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Varttina_-_Aitara.jpg> ;
+	dct:subject	<http://dbpedia.org/resource/Category:1994_albums> ,
+		<http://dbpedia.org/resource/Category:V\u00E4rttin\u00E4_albums> ;
+	dbo:wikiPageID	2381202 ;
+	dbo:wikiPageRevisionID	999372240 ;
+	dbo:wikiPageWikiLink	dbr:Australia ,
+		<http://dbpedia.org/resource/V\u00E4rttin\u00E4> ,
+		dbr:Seleniko ,
+		dbr:Riitta_Potinoja ,
+		dbr:Sari_Kaasinen ,
+		dbr:Helsinki ,
+		<http://dbpedia.org/resource/Reed_(instrument)> ,
+		dbr:Ethnic_Finn ,
+		dbr:Finland ,
+		<http://dbpedia.org/resource/King_Records_(Japan)> ,
+		<http://dbpedia.org/resource/Category:1994_albums> ,
+		dbr:Guitar ,
+		<http://dbpedia.org/resource/Music_&_Words> ,
+		dbr:Janne_Lappalainen ,
+		dbr:Nonesuch_Records ,
+		<http://dbpedia.org/resource/C\u00FCmb\u00FCs_tanbur> ,
+		dbr:Folk_music ,
+		dbr:Album ,
+		dbr:Mari_Kaasinen ,
+		dbr:Aitara-drums ,
+		dbr:Mipu_Music ,
+		dbr:Accordion ,
+		dbr:Bouzouki ,
+		dbr:Pekka_Lehti ,
+		dbr:Kantele ,
+		dbr:Whistle ,
+		dbr:Violin ,
+		dbr:NorthSide ,
+		dbr:National_Association_of_Independent_Record_Distributors ,
+		dbr:Hammond_organ ,
+		dbr:Sirpa_Reiman ,
+		dbr:Janne_Haavisto ,
+		<http://dbpedia.org/resource/Kirsi_K\u00E4hk\u00F6nen> ,
+		dbr:Xenophile_Records ,
+		dbr:United_States ,
+		dbr:Bertelsmann_Music_Group ,
+		<http://dbpedia.org/resource/Anssi_Nyk\u00E4nen> ,
+		<http://dbpedia.org/resource/Category:V\u00E4rttin\u00E4_albums> ,
+		dbr:Kari_Reiman ,
+		<http://dbpedia.org/resource/Kokko_(album)> ,
+		dbr:String_bass ,
+		dbr:Vocals ,
+		dbr:Antto_Varilo ,
+		dbr:Cimbalom ;
+	dbo:wikiPageExternalLink	<http://www.varttina.com/recordings/aitara/> ,
+		<https://web.archive.org/web/20060421230503/http:/www.greenlinnet.com/listen/ra/4026.ram> ;
+	dbp:wikiPageUsesTemplate	dbt:Authority_control ,
+		dbt:Infobox_album ;
+	gold:hypernym	<http://dbpedia.org/resource/V\u00E4rttin\u00E4> ;
+	dbp:artist	<http://dbpedia.org/resource/V\u00E4rttin\u00E4> ;
+	dbp:cover	"Varttina - Aitara.jpg"@en ;
+	dbp:genre	dbr:Folk_music ,
+		dbr:Ethnic_Finn ;
+	dbp:label	dbr:Mipu_Music ;
+	dbp:length	"2500.0"^^dbd:second ;
+	dbp:nextTitle	<http://dbpedia.org/resource/Kokko_(album)> ;
+	dbp:nextYear	1996 ;
+	dbp:prevTitle	dbr:Seleniko ;
+	dbp:prevYear	1992 ;
+	dbp:producer	dbr:Janne_Haavisto ;
+	dbp:recorded	"Finnvox-Studio, Helsinki Sept 1994"@en ;
+	dbp:released	1994 ;
+	dbp:type	dbr:Album ;
+	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Aitara?oldid=999372240&ns=0> ;
+	dbo:wikiPageLength	"2977"^^xsd:nonNegativeInteger ;
+	dbo:abstract	"Aitara is V\u00E4rttin\u00E4's 5th album, released in 1994 in Finland. In 1995, it was released by King Records in Japan, in Benelux, and Xenophile Records in the United States, where it spent five weeks at #1 on the CMJ World Music charts. In 2003, it was re-released in Finland by BMG, and has been re-released in the U.S. by NorthSide. Aitara was named \"Best Contemporary World Music Album\" by the National Association of Independent Record Distributors. For their second video, V\u00E4rttin\u00E4 used \"Y\u00F6tulet\" from this album."@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Aitara .
+dbr:Aitebar	rdf:type	yago:Whole100003553 ,
+		yago:Object100002684 ,
+		yago:Instrumentality103575240 ,
+		yago:WikicatAlbumsByPakistaniArtists ,
+		owl:Thing ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Album ,
+		yago:Medium106254669 ,
+		wikidata:Q482994 ,
+		wikidata:Q386724 ,
+		dbo:MusicalWork ,
+		yago:Album106591815 ,
+		dbo:Work ,
+		yago:WikicatUrdu-languageAlbums ,
+		yago:Artifact100021939 ,
+		schema:CreativeWork ,
+		schema:MusicAlbum ,
+		wikidata:Q2188189 ,
+		yago:WikicatVitalSignsAlbums ,
+		yago:Wikicat1993Albums ;
+	rdfs:label	"Aitebar"@en ;
+	rdfs:comment	"Aitebar was the third album of the Pakistani band Vital Signs."@en ;
+	owl:sameAs	wikidata:Q4699297 ,
+		<http://rdf.freebase.com/ns/m.04n4djf> ,
+		<https://global.dbpedia.org/id/4MrhD> ,
+		yago-res:Aitebar ,
+		<http://musicbrainz.org/release-group/3d8f8e90-04ca-3dac-b1fd-26cc987ac81a> ;
+	dbp:name	"Aitebar"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/vital_signs-aitebar.jpg> ;
+	dct:subject	<http://dbpedia.org/resource/Category:1993_albums> ,
+		<http://dbpedia.org/resource/Category:Vital_Signs_(band)_albums> ,
+		dbc:Urdu-language_albums ;
+	dbo:wikiPageID	19331798 ;
+	dbo:wikiPageRevisionID	1026348828 ;
+	dbo:wikiPageWikiLink	dbr:Assad_Ahmed ,
+		<http://dbpedia.org/resource/Vital_Signs_(band)> ,
+		dbr:Shoaib_Mansoor ,
+		dbr:Bass_guitars ,
+		<http://dbpedia.org/resource/Category:1993_albums> ,
+		<http://dbpedia.org/resource/Category:Vital_Signs_(band)_albums> ,
+		dbr:Keyboard_instrument ,
+		dbr:Vital_Signs_2 ,
+		<http://dbpedia.org/resource/Hum_Tum_(album)> ,
+		<http://dbpedia.org/resource/Vital_Signs_(pop_band)> ,
+		dbr:Dj_khan ,
+		dbr:Rawalpindi ,
+		dbr:Junaid_Jamshed ,
+		dbr:Rohail_Hyatt ,
+		dbr:Album ,
+		dbr:Lead_vocals ,
+		dbr:Backing_vocalist ,
+		dbr:Pakistan ,
+		dbr:EMI ,
+		dbr:Pop_music ,
+		dbr:Lead_guitars ,
+		dbc:Urdu-language_albums ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20070301001212/http:/www.raw.com.pk/special/vital_signs_history/> ,
+		<https://web.archive.org/web/20111012231524/http:/www.vitalsignspk.com/category/album-3-aitebar/> ;
+	dbp:wikiPageUsesTemplate	dbt:Authority_control ,
+		dbt:Short_description ,
+		dbt:Unreferenced ,
+		dbt:Infobox_album ,
+		dbt:Track_listing ,
+		dbt:Vital_Signs ,
+		dbt:World-album-stub ,
+		dbt:Use_Pakistani_English ,
+		dbt:Use_dmy_dates ;
+	gold:hypernym	dbr:Album ;
+	dbp:artist	<http://dbpedia.org/resource/Vital_Signs_(band)> ;
+	dbp:cover	"vital signs-aitebar.jpg"@en ;
+	dbp:genre	dbr:Pop_music ;
+	dbp:headline	"Aitebar"@en ;
+	dbp:label	dbr:EMI ;
+	dbp:length	"252.0"^^dbd:second ,
+		"369.0"^^dbd:second ,
+		"301.0"^^dbd:second ,
+		"270.0"^^dbd:second ,
+		"261.0"^^dbd:second ,
+		"313.0"^^dbd:second ,
+		"3020.0"^^dbd:second ,
+		"307.0"^^dbd:second ,
+		"338.0"^^dbd:second ,
+		"286.0"^^dbd:second ;
+	dbp:nextTitle	<http://dbpedia.org/resource/Hum_Tum_(album)> ;
+	dbp:nextYear	1995 ;
+	dbp:prevTitle	dbr:Vital_Signs_2 ;
+	dbp:prevYear	1991 ;
+	dbp:producer	dbr:Rohail_Hyatt ;
+	dbp:recorded	1992 ;
+	dbp:released	"1993-01-01"^^xsd:date ;
+	dbp:title	"Yarian"@en ,
+		"Yehi Zameen"@en ,
+		"Har Chehra"@en ,
+		"Woh Kaun Thee"@en ,
+		"Dil Dhoondta Hai"@en ,
+		"Aitebar"@en ,
+		"Khamosh Ho"@en ,
+		"Chupa Leyna"@en ,
+		"Bichar Kay"@en ,
+		"Challa"@en ;
+	dbp:totalLength	"3020.0"^^dbd:second ;
+	dbp:type	dbr:Album ;
+	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Aitebar?oldid=1026348828&ns=0> ;
+	dbo:wikiPageLength	"2608"^^xsd:nonNegativeInteger ;
+	dbo:abstract	"Aitebar was the third album of the Pakistani band Vital Signs."@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Aitebar .
+<http://dbpedia.org/resource/Aj\u00EEl-e_Moshkel-gosh\u00E2>	rdf:type	yago:Event100029378 ,
+		yago:WikicatSpringHolidays ,
+		dbo:Album ,
+		yago:SocialEvent107288639 ,
+		yago:Cognition100023271 ,
+		yago:WikicatSpringTraditions ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Activity100407535 ,
+		yago:TimeOff115118453 ,
+		yago:TimePeriod115113229 ,
+		yago:Look100877127 ,
+		yago:Act100030358 ,
+		yago:FundamentalQuantity113575869 ,
+		yago:Sensing100876874 ,
+		yago:SensoryActivity100876737 ,
+		yago:Celebration107450651 ,
+		yago:WikicatMarchObservances ,
+		yago:Observation100879759 ,
+		yago:Tradition105809745 ,
+		yago:WikicatNewYearCelebrations ,
+		yago:Abstraction100002137 ,
+		yago:Content105809192 ,
+		yago:Measure100033615 ,
+		yago:PsychologicalFeature100023100 ,
+		yago:Affair107447261 ,
+		yago:Vacation115137890 ,
+		yago:Leisure115137676 ;
+	rdfs:label	"\u0391\u03C4\u03B6\u03AF\u03BB-\u03B5 \u039C\u03BF\u03C3\u03BA\u03AD\u03BB-\u03B3\u03BA\u03BF\u03C3\u03AC"@el ,
+		"Aj\u00EEl-e Moshkel-gosh\u00E2"@en ;
+	rdfs:comment	"\u03A4\u03BF \u0391\u03C4\u03B6\u03AF\u03BB-\u03B5 \u039C\u03BF\u03C3\u03BA\u03AD\u03BB-\u03B3\u03BA\u03BF\u03C3\u03AC (\u03C0\u03B5\u03C1\u03C3\u03B9\u03BA\u03AC: \u0622\u062C\u06CC\u0644 \u0645\u0634\u06A9\u0644\u200C\u06AF\u0634\u0627\u200E, \u03BA\u03C5\u03C1\u03B9\u03BF\u03BB\u03B5\u03BA\u03C4\u03B9\u03BA\u03AC \u03C3\u03B7\u03BC\u03B1\u03AF\u03BD\u03B5\u03B9 \u0391\u03C4\u03B6\u03AF\u03BB \u03C0\u03BF\u03C5 \u03BB\u03CD\u03BD\u03B5\u03B9 \u03C0\u03C1\u03BF\u03B2\u03BB\u03AE\u03BC\u03B1\u03C4\u03B1) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03AD\u03BD\u03B1 \u03BC\u03B5\u03AF\u03B3\u03BC\u03B1 \u03B1\u03C0\u03CC \u03B4\u03B9\u03B1\u03C6\u03BF\u03C1\u03B5\u03C4\u03B9\u03BA\u03BF\u03CD\u03C2 \u03B1\u03C0\u03BF\u03BE\u03B7\u03C1\u03B1\u03BC\u03AD\u03BD\u03BF\u03C5\u03C2 \u03BA\u03B1\u03C1\u03C0\u03BF\u03CD\u03C2 \u03BA\u03B1\u03B9 \u03C6\u03C1\u03BF\u03CD\u03C4\u03B1, \u03C0\u03BF\u03C5 \u03C3\u03B5\u03C1\u03B2\u03AF\u03C1\u03B5\u03C4\u03B1\u03B9 \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7 \u03B4\u03B9\u03AC\u03C1\u03BA\u03B5\u03B9\u03B1 \u03C4\u03BF\u03C5 \u039D\u03B5\u03B2\u03C1\u03CC\u03B6 \u03C3\u03C4\u03BF \u0399\u03C1\u03AC\u03BD. \u03A0\u03B9\u03C3\u03C4\u03B5\u03CD\u03B5\u03C4\u03B1\u03B9 \u03B5\u03C5\u03C1\u03AD\u03C9\u03C2 \u03CC\u03C4\u03B9 \u03BA\u03AC\u03BD\u03BF\u03BD\u03C4\u03B1\u03C2 \u03BC\u03B9\u03B1 \u03B5\u03C5\u03C7\u03AE \u03BA\u03B1\u03B9 \u03BA\u03B1\u03C4\u03B1\u03BD\u03B1\u03BB\u03CE\u03BD\u03BF\u03BD\u03C4\u03AC\u03C2 \u03C4\u03BF, \u03C4\u03BF \u03C0\u03C1\u03CC\u03B2\u03BB\u03B7\u03BC\u03B1 \u03B8\u03B1 \u03B5\u03C0\u03B9\u03BB\u03C5\u03B8\u03B5\u03AF. \u039C\u03B5\u03C1\u03B9\u03BA\u03BF\u03AF \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03C0\u03B9\u03C3\u03C4\u03B5\u03CD\u03BF\u03C5\u03BD \u03CC\u03C4\u03B9 \u03B7 \u03BA\u03B1\u03C4\u03B1\u03BD\u03AC\u03BB\u03C9\u03C3\u03B7 \u03B1\u03C5\u03C4\u03CE\u03BD \u03C4\u03C9\u03BD \u03BA\u03B1\u03C1\u03C0\u03CE\u03BD \u03B8\u03B1 \u03C4\u03BF\u03C5\u03C2 \u03C0\u03C1\u03BF\u03C3\u03C4\u03B1\u03C4\u03B5\u03CD\u03C3\u03B5\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 \u03C0\u03BB\u03B7\u03B3\u03AD\u03C2 \u03C4\u03BF\u03C5 \u03BA\u03B1\u03BA\u03BF\u03CD \u03BA\u03B1\u03B9 \u03C4\u03B1 \u03BA\u03B1\u03BA\u03AC \u03BC\u03AC\u03C4\u03B9\u03B1. \u03A0\u03B9\u03C3\u03C4\u03B5\u03CD\u03B5\u03C4\u03B1\u03B9 \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03CC\u03C4\u03B9 \u03B7 \u03BA\u03B1\u03C4\u03B1\u03BD\u03AC\u03BB\u03C9\u03C3\u03B7 \u03B1\u03C5\u03C4\u03CE\u03BD \u03C4\u03C9\u03BD \u03BA\u03B1\u03C1\u03C0\u03CE\u03BD \u03BC\u03B5 \u03BA\u03AD\u03BB\u03C5\u03C6\u03BF\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03C3\u03BC\u03B1\u03C4\u03B9\u03BA\u03CC\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03BF \u03BE\u03B5\u03BA\u03BB\u03B5\u03AF\u03B4\u03C9\u03BC\u03B1 \u03C4\u03B7\u03C2 \u03BC\u03BF\u03AF\u03C1\u03B1\u03C2 \u03C4\u03C9\u03BD \u03BA\u03BF\u03C1\u03B9\u03C4\u03C3\u03B9\u03CE\u03BD."@el ,
+		"Ajil-e Moshkel-gosha (Persian: \u0622\u062C\u06CC\u0644 \u0645\u0634\u06A9\u0644\u200C\u06AF\u0634\u0627\u200E), literally problem-solving Ajil, is a mix of diverse dried nuts and fruits that is served during Yalda in Iran. It is popularly believed that by making a wish and eating it, a problem will be resolved."@en ;
+	owl:sameAs	wikidata:Q4699996 ,
+		<http://fa.dbpedia.org/resource/\u0622\u062C\u06CC\u0644_\u0645\u0634\u06A9\u0644\u200C\u06AF\u0634\u0627> ,
+		<http://rdf.freebase.com/ns/m.03y3g3y> ,
+		<https://global.dbpedia.org/id/4MkZK> ,
+		<http://el.dbpedia.org/resource/\u0391\u03C4\u03B6\u03AF\u03BB-\u03B5_\u039C\u03BF\u03C3\u03BA\u03AD\u03BB-\u03B3\u03BA\u03BF\u03C3\u03AC> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Bush_43_10-19-04_Stpete.jpg> ;
+	dct:subject	dbc:Iranian_cuisine ,
+		dbc:Persian_words_and_phrases ,
+		dbc:Spring_traditions ,
+		dbc:Iranian_folklore ;
+	dbo:wikiPageID	16443764 ;
+	dbo:wikiPageRevisionID	874797103 ;
+	dbo:wikiPageWikiLink	dbc:Iranian_cuisine ,
+		<http://dbpedia.org/resource/Nut_(fruit)> ,
+		dbr:Yalda ,
+		dbc:Persian_words_and_phrases ,
+		dbc:Spring_traditions ,
+		dbr:Iran ,
+		dbc:Iranian_folklore ;
+	dbp:wikiPageUsesTemplate	dbt:Norouz ,
+		dbt:Notability ,
+		dbt:One_source ,
+		dbt:Reflist ;
+	gold:hypernym	dbr:Mix ;
+	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Aj\u00EEl-e_Moshkel-gosh\u00E2?oldid=874797103&ns=0> ;
+	dbo:wikiPageLength	"712"^^xsd:nonNegativeInteger ;
+	dbo:abstract	"Ajil-e Moshkel-gosha (Persian: \u0622\u062C\u06CC\u0644 \u0645\u0634\u06A9\u0644\u200C\u06AF\u0634\u0627\u200E), literally problem-solving Ajil, is a mix of diverse dried nuts and fruits that is served during Yalda in Iran. It is popularly believed that by making a wish and eating it, a problem will be resolved."@en ,
+		"\u03A4\u03BF \u0391\u03C4\u03B6\u03AF\u03BB-\u03B5 \u039C\u03BF\u03C3\u03BA\u03AD\u03BB-\u03B3\u03BA\u03BF\u03C3\u03AC (\u03C0\u03B5\u03C1\u03C3\u03B9\u03BA\u03AC: \u0622\u062C\u06CC\u0644 \u0645\u0634\u06A9\u0644\u200C\u06AF\u0634\u0627\u200E, \u03BA\u03C5\u03C1\u03B9\u03BF\u03BB\u03B5\u03BA\u03C4\u03B9\u03BA\u03AC \u03C3\u03B7\u03BC\u03B1\u03AF\u03BD\u03B5\u03B9 \u0391\u03C4\u03B6\u03AF\u03BB \u03C0\u03BF\u03C5 \u03BB\u03CD\u03BD\u03B5\u03B9 \u03C0\u03C1\u03BF\u03B2\u03BB\u03AE\u03BC\u03B1\u03C4\u03B1) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03AD\u03BD\u03B1 \u03BC\u03B5\u03AF\u03B3\u03BC\u03B1 \u03B1\u03C0\u03CC \u03B4\u03B9\u03B1\u03C6\u03BF\u03C1\u03B5\u03C4\u03B9\u03BA\u03BF\u03CD\u03C2 \u03B1\u03C0\u03BF\u03BE\u03B7\u03C1\u03B1\u03BC\u03AD\u03BD\u03BF\u03C5\u03C2 \u03BA\u03B1\u03C1\u03C0\u03BF\u03CD\u03C2 \u03BA\u03B1\u03B9 \u03C6\u03C1\u03BF\u03CD\u03C4\u03B1, \u03C0\u03BF\u03C5 \u03C3\u03B5\u03C1\u03B2\u03AF\u03C1\u03B5\u03C4\u03B1\u03B9 \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7 \u03B4\u03B9\u03AC\u03C1\u03BA\u03B5\u03B9\u03B1 \u03C4\u03BF\u03C5 \u039D\u03B5\u03B2\u03C1\u03CC\u03B6 \u03C3\u03C4\u03BF \u0399\u03C1\u03AC\u03BD. \u03A0\u03B9\u03C3\u03C4\u03B5\u03CD\u03B5\u03C4\u03B1\u03B9 \u03B5\u03C5\u03C1\u03AD\u03C9\u03C2 \u03CC\u03C4\u03B9 \u03BA\u03AC\u03BD\u03BF\u03BD\u03C4\u03B1\u03C2 \u03BC\u03B9\u03B1 \u03B5\u03C5\u03C7\u03AE \u03BA\u03B1\u03B9 \u03BA\u03B1\u03C4\u03B1\u03BD\u03B1\u03BB\u03CE\u03BD\u03BF\u03BD\u03C4\u03AC\u03C2 \u03C4\u03BF, \u03C4\u03BF \u03C0\u03C1\u03CC\u03B2\u03BB\u03B7\u03BC\u03B1 \u03B8\u03B1 \u03B5\u03C0\u03B9\u03BB\u03C5\u03B8\u03B5\u03AF. \u039C\u03B5\u03C1\u03B9\u03BA\u03BF\u03AF \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03C0\u03B9\u03C3\u03C4\u03B5\u03CD\u03BF\u03C5\u03BD \u03CC\u03C4\u03B9 \u03B7 \u03BA\u03B1\u03C4\u03B1\u03BD\u03AC\u03BB\u03C9\u03C3\u03B7 \u03B1\u03C5\u03C4\u03CE\u03BD \u03C4\u03C9\u03BD \u03BA\u03B1\u03C1\u03C0\u03CE\u03BD \u03B8\u03B1 \u03C4\u03BF\u03C5\u03C2 \u03C0\u03C1\u03BF\u03C3\u03C4\u03B1\u03C4\u03B5\u03CD\u03C3\u03B5\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 \u03C0\u03BB\u03B7\u03B3\u03AD\u03C2 \u03C4\u03BF\u03C5 \u03BA\u03B1\u03BA\u03BF\u03CD \u03BA\u03B1\u03B9 \u03C4\u03B1 \u03BA\u03B1\u03BA\u03AC \u03BC\u03AC\u03C4\u03B9\u03B1. \u03A0\u03B9\u03C3\u03C4\u03B5\u03CD\u03B5\u03C4\u03B1\u03B9 \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03CC\u03C4\u03B9 \u03B7 \u03BA\u03B1\u03C4\u03B1\u03BD\u03AC\u03BB\u03C9\u03C3\u03B7 \u03B1\u03C5\u03C4\u03CE\u03BD \u03C4\u03C9\u03BD \u03BA\u03B1\u03C1\u03C0\u03CE\u03BD \u03BC\u03B5 \u03BA\u03AD\u03BB\u03C5\u03C6\u03BF\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03C3\u03BC\u03B1\u03C4\u03B9\u03BA\u03CC\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03BF \u03BE\u03B5\u03BA\u03BB\u03B5\u03AF\u03B4\u03C9\u03BC\u03B1 \u03C4\u03B7\u03C2 \u03BC\u03BF\u03AF\u03C1\u03B1\u03C2 \u03C4\u03C9\u03BD \u03BA\u03BF\u03C1\u03B9\u03C4\u03C3\u03B9\u03CE\u03BD. \u039A\u03AC\u03B8\u03B5 \u03C0\u03B5\u03C1\u03B9\u03BF\u03C7\u03AE \u03C4\u03BF\u03C5 \u0399\u03C1\u03AC\u03BD \u03C0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AC\u03B6\u03B5\u03B9 \u03C4\u03B1 \u03B3\u03BB\u03C5\u03BA\u03AC \u03BC\u03B5 \u03C4\u03BF \u03B4\u03B9\u03BA\u03CC \u03C4\u03B7\u03C2 \u03C4\u03C1\u03CC\u03C0\u03BF. \u03A3\u03C4\u03B7\u03BD \u03A4\u03B5\u03C7\u03B5\u03C1\u03AC\u03BD\u03B7 \u03C4\u03B1 \u03C3\u03C5\u03C3\u03C4\u03B1\u03C4\u03B9\u03BA\u03AC \u03C4\u03C9\u03BD \u03B3\u03BB\u03C5\u03BA\u03CE\u03BD \u03B1\u03C5\u03C4\u03CE\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C4\u03B1 \u03B5\u03BE\u03AE\u03C2: \u03C6\u03B9\u03C3\u03C4\u03AF\u03BA\u03B9\u03B1, \u03B1\u03BC\u03CD\u03B3\u03B4\u03B1\u03BB\u03B1, \u03BA\u03B1\u03C1\u03CD\u03B4\u03B9\u03B1, \u03C3\u03C4\u03B1\u03C6\u03AF\u03B4\u03B5\u03C2, \u03C6\u03CD\u03BB\u03BB\u03B1 \u03B2\u03B5\u03C1\u03AF\u03BA\u03BF\u03BA\u03BF\u03C5, \u03C3\u03CD\u03BA\u03B1 \u03BA\u03B1\u03B9 \u03C7\u03BF\u03C5\u03C1\u03BC\u03AC\u03B4\u03B5\u03C2. \u03A0\u03C1\u03CC\u03C3\u03C6\u03B1\u03C4\u03B1 \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03C0\u03C1\u03BF\u03C3\u03B8\u03AD\u03C4\u03BF\u03C5\u03BD \u03BA\u03B1\u03B9 \u03BA\u03B1\u03C1\u03CD\u03B4\u03B5\u03C2, \u03B3\u03BA\u03AD\u03B9\u03C3\u03B9, \u03BA\u03B1\u03B9 \u03B6\u03B1\u03C7\u03B1\u03C1\u03C9\u03C4\u03AC."@el ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Aj\u00EEl-e_Moshkel-gosh\u00E2> .
+dbr:Akaflieg_Darmstadt	dbo:wikiPageWikiLink	dbr:Akaflieg_Darmstadt_D-9_Konsul .
+dbr:Akaflieg_Darmstadt_D-17_Darmstadt	dbo:wikiPageWikiLink	dbr:Akaflieg_Darmstadt_D-9_Konsul .
+dbr:Akaflieg_Darmstadt_D-9_Konsul	rdf:type	yago:Type105840188 ,
+		yago:Category105838765 ,
+		owl:Thing ,
+		yago:PsychologicalFeature100023100 ,
+		yago:Content105809192 ,
+		yago:Concept105835747 ,
+		yago:Abstraction100002137 ,
+		yago:Idea105833840 ,
+		dbo:Album ,
+		dbo:Aircraft ,
+		yago:Cognition100023271 ,
+		schema:Product ,
+		wikidata:Q11436 ,
+		dbo:MeanOfTransportation ,
+		yago:Kind105839024 ;
+	rdfs:label	"Akaflieg Darmstadt D-9 Konsul"@en ,
+		"Akaflieg Darmstadt D-9"@de ;
+	rdfs:comment	"Die Akaflieg Darmstadt D-9 Konsul war ein einsitziges, freitragendes Segelflugzeug der Akademischen Fliegergruppe der Technischen Hochschule Darmstadt, das zu Ehren Konsul Kotzenbergs benannt wurde."@de ,
+		"The Akaflieg Darmstadt D-9 Konsul, often shortened to Darmstadt D-9 Konsul, was a high performance, single seat, cantilever monoplane sailplane, designed and built by a German University student group in 1923 for hill soaring."@en ;
+	owl:sameAs	yago-res:Akaflieg_Darmstadt_D-9_Konsul ,
+		<https://global.dbpedia.org/id/4MPgR> ,
+		<http://rdf.freebase.com/ns/m.0h_dzck> ,
+		wikidata:Q4700116 .
+@prefix ns28:	<http://tg.dbpedia.org/resource/> .
+dbr:Akaflieg_Darmstadt_D-9_Konsul	owl:sameAs	ns28:Akaflieg_Darmstadt_D-9_Konsul .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Akaflieg_Darmstadt_D-9_Konsul	owl:sameAs	dbpedia-de:Akaflieg_Darmstadt_D-9 ;
+	dbp:emptyWeightKg	185 ;
+	dbp:firstFlight	1923 ;
+	dbp:lengthM	6.3499999999999996447 ;
+	dbp:nationalOrigin	dbr:Germany ;
+	<http://dbpedia.org/property/primeUnits%3F_>	"met"@en ;
+	dbp:spanM	18.199999999999999289 ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_102-13692,_Rh\u00F6n,_Segelflugwettbewerb.jpg> ;
+	dct:subject	dbc:Aircraft_first_flown_in_1923 ,
+		<http://dbpedia.org/resource/Category:1920s_German_sailplanes> ,
+		dbc:Akaflieg_Darmstadt_aircraft ,
+		dbc:High-wing_aircraft ;
+	dbo:wikiPageID	34402648 ;
+	dbo:wikiPageRevisionID	1037320854 ;
+	dbo:wikiPageWikiLink	dbc:Aircraft_first_flown_in_1923 ,
+		<http://dbpedia.org/resource/Flap_(aircraft)> ,
+		<http://dbpedia.org/resource/Category:1920s_German_sailplanes> ,
+		<http://dbpedia.org/resource/University_of_G\u00F6ttingen> ,
+		dbr:Crimean_Peninsula ,
+		<http://dbpedia.org/resource/Glider_(sailplane)> ,
+		dbr:Aircraft_fabric_covering ,
+		dbr:Wing_aspect_ratio ,
+		dbr:Empennage ,
+		<http://dbpedia.org/resource/Air_brake_(aircraft)> ,
+		dbr:Wing_tip ,
+		<http://dbpedia.org/resource/Spoiler_(aeronautics)> ,
+		dbr:Cantilever ,
+		dbc:Akaflieg_Darmstadt_aircraft ,
+		dbr:Akaflieg_Darmstadt ,
+		dbr:Rudder ,
+		dbr:World_War_II ,
+		dbr:Airfoil ,
+		dbc:High-wing_aircraft ,
+		dbr:Fin ,
+		dbr:High_wing ,
+		dbr:Germany ,
+		dbr:Leading_edge ,
+		<http://dbpedia.org/resource/Technische_Universit\u00E4t_Darmstadt> ,
+		dbr:Plywood ,
+		dbr:Aileron ,
+		<http://dbpedia.org/resource/Chord_(aircraft)> ,
+		dbr:Sailplane ,
+		dbr:Hill_soaring ,
+		<http://dbpedia.org/resource/Elevator_(aircraft)> ,
+		dbr:Monocoque ,
+		<http://dbpedia.org/resource/Dihedral_(aircraft)> ,
+		dbr:Adverse_yaw ,
+		dbr:Tailplane ,
+		dbr:Monoplane ,
+		<http://dbpedia.org/resource/Spar_(aviation)> ,
+		<http://dbpedia.org/resource/Camber_(aerodynamics)> ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20130125024222/http:/www.ae.illinois.edu/m-selig/ads/afplots/goe535.gif> ,
+		<https://web.archive.org/web/20130306050543/http:/www.akaflieg.tu-darmstadt.de/geschichte/d-09/> ;
+	dbp:wikiPageUsesTemplate	dbt:Infobox_aircraft_type ,
+		dbt:Aircontent ,
+		dbt:Commons_category ,
+		dbt:Reflist ,
+		dbt:Akaflieg_Darmstadt_aircraft ,
+		dbt:Aircraft_specs ;
+	gold:hypernym	dbr:Performance ;
+	dbp:wingAreaSqm	21 .
+@prefix ns30:	<http://dbpedia.org/property/wingLoadingKg/> .
+dbr:Akaflieg_Darmstadt_D-9_Konsul	ns30:m	9.0999999999999996447 ;
+	dbp:crew	1 ;
+	dbp:designer	"Albert Botsch,Fritz Hoppe and Rudolf Spies"@en ;
+	dbp:manufacturer	dbr:Akaflieg_Darmstadt ;
+	dbp:ref	"Sailplanes 1920-1945"@en ;
+	dbp:type	"Single seat glider"@en ;
+	dbp:airfoil	"G\u00F6ttingen 535"@en ;
+	dbp:aspectRatio	15.800000000000000711 ;
+	dbp:emptyWeightNote	"structure"@en ;
+	dbp:glideRatio	1 ;
+	dbp:grossWeightKg	270 ;
+	dbp:grossWeightNote	"in flight"@en ;
+	dbp:numberBuilt	1 ;
+	dbo:manufacturer	dbr:Akaflieg_Darmstadt ;
+	dbo:origin	dbr:Germany ;
+	dbo:type	<http://dbpedia.org/resource/Glider_(sailplane)> ;
+	dbo:numberBuilt	"1"^^xsd:nonNegativeInteger ;
+	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Akaflieg_Darmstadt_D-9_Konsul?oldid=1037320854&ns=0> ;
+	dbo:wikiPageLength	"7967"^^xsd:nonNegativeInteger ;
+	dbo:abstract	"The Akaflieg Darmstadt D-9 Konsul, often shortened to Darmstadt D-9 Konsul, was a high performance, single seat, cantilever monoplane sailplane, designed and built by a German University student group in 1923 for hill soaring."@en ,
+		"Die Akaflieg Darmstadt D-9 Konsul war ein einsitziges, freitragendes Segelflugzeug der Akademischen Fliegergruppe der Technischen Hochschule Darmstadt, das zu Ehren Konsul Kotzenbergs benannt wurde."@de ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Akaflieg_Darmstadt_D-9_Konsul .
+<http://dbpedia.org/resource/Akbar_Shah_(diamond)>	rdf:type	yago:Jewelry103597469 ,
+		yago:Whole100003553 ,
+		yago:Decoration103169390 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Object100002684 ,
+		yago:WikicatJewelsOfTheMughalEmpire ,
+		yago:WikicatNamedDiamonds ,
+		dbo:Album ,
+		yago:Diamond113371958 ,
+		yago:WikicatDiamondsOriginatingInIndia ,
+		yago:Adornment102681518 ,
+		yago:Artifact100021939 ,
+		yago:Jewel103596787 ;
+	rdfs:label	"\u0428\u0430\u0445 \u0410\u043A\u0431\u0430\u0440 (\u0430\u043B\u043C\u0430\u0437)"@uk ,
+		"\u0428\u0430\u0445 \u0410\u043A\u0431\u0430\u0440"@ru ,
+		"Akbar Shah (diamond)"@en ,
+		"Akbar shah"@nl ;
+	rdfs:comment	"The Akbar Sh\u0101h, also known as the \"Lustre of the Peacock Throne\", is a diamond dating back to the Mughal dynasty of India. It is an irregular, pear-shaped diamond with a light green hue, weighing 73.60 carat. The names of three Mughal emperors Akbar, Jahangir and Shah Jahan were elegantly listed on its sides, which makes it prominent."@en ,
+		"De Akbar shah oftewel \"De schittering van de pauwentroon\" is een uit de literatuur bekende grote diamant. De edelsteen wordt in verband gebracht met de Moghul-dynastie en hun fameuze pauwentroon. De grote onregelmatig gevormde en lichtgroene steen woog oorspronkelijk 116 karaat. Over de kleur wordt in de literatuur niets gezegd. De diamanten uit India zijn meestal zeer helder en \"wit\" oftewel kleurloos. De memoires zijn niet helemaal correct, de stenen werden niet in een mijn maar in een rivierbedding gevonden. In de genoemde streek zijn geen diamantmijnen."@nl ,
+		"\u0428\u0430\u0445 \u0410\u043A\u0431\u0430\u0440 \u2014 \u043E\u0434\u0438\u043D \u0456\u0437 \u0437\u043D\u0430\u043C\u0435\u043D\u0438\u0442\u0438\u0445 \u0430\u043B\u043C\u0430\u0437\u0456\u0432, \u044F\u043A\u0438\u0439 \u043C\u0430\u0432 \u0434\u043E \u043E\u0433\u0440\u0430\u043D\u043E\u0432\u0443\u0432\u0430\u043D\u043D\u044F \u043C\u0430\u0441\u0443 119 \u043A\u0430\u0440\u0430\u0442\u0456\u0432. \u0411\u0435\u0437\u0431\u0430\u0440\u0432\u043D\u0438\u0439 \u0430\u043B\u043C\u0430\u0437 \u0431\u0443\u0432 \u0437\u043D\u0430\u0439\u0434\u0435\u043D\u0438\u0439 \u0432 \u0406\u043D\u0434\u0456\u0457 \u0432 1618 \u0440\u043E\u0446\u0456. \u0411\u0443\u0432 \u0432\u0441\u0442\u0430\u0432\u043B\u0435\u043D\u0438\u0439 \u0432 \u041F\u0430\u0432\u0438\u043D\u0438\u0439 \u0442\u0440\u043E\u043D (\u0442\u0440\u043E\u043D \u0412\u0435\u043B\u0438\u043A\u0438\u0445 \u041C\u043E\u0433\u043E\u043B\u0456\u0432), \u044F\u043A \u043E\u043A\u043E \u043F\u0430\u0432\u0438\u0447\u0430. \u0412\u0456\u0434\u043E\u043C\u043E \u0449\u043E \u0446\u0435\u0439 \u0430\u043B\u043C\u0430\u0437 \u0431\u0443\u0432 \u0432\u043B\u0430\u0441\u043D\u0456\u0441\u0442\u044E \u0456 \u0431\u0443\u0432 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0439 \u043D\u0430 \u0439\u043E\u0433\u043E \u0447\u0435\u0441\u0442\u044C, \u0437\u0430 \u043D\u0430\u043A\u0430\u0437\u043E\u043C \u0439\u043E\u0433\u043E \u043D\u0430\u0441\u0442\u0443\u043F\u043D\u0438\u043A\u0430 . \u041F\u0440\u0438\u043F\u0443\u0441\u043A\u0430\u044E\u0442\u044C \u0449\u043E \u0432\u0456\u043D \u043F\u043E\u0442\u0440\u0430\u043F\u0438\u0432 \u0434\u043E \u041F\u0435\u0440\u0441\u0456\u0457 \u044F\u043A \u0442\u0440\u043E\u0444\u0435\u0439 \u0432 1739 \u0440\u043E\u0446\u0456 \u0440\u0430\u0437\u043E\u043C \u0437 \u0442\u0440\u043E\u043D\u043E\u043C. \u041D\u0430 \u0434\u0432\u043E\u0445 \u0439\u043E\u0433\u043E \u0433\u0440\u0430\u043D\u044F\u0445 \u0431\u0443\u043B\u0438 \u0432\u0438\u0440\u0456\u0437\u0430\u043D\u0456 \u043D\u0430\u043F\u0438\u0441\u0438 \u0430\u0440\u0430\u0431\u0441\u044C\u043A\u043E\u044E, \u044F\u043A\u0456 \u0432\u0456\u0434\u043F\u043E\u0432\u0456\u0434\u0430\u044E\u0442\u044C 1618 \u0456 1629 \u0440\u043E\u043A\u0430\u043C \u043D\u0430\u0448\u043E\u0457 \u0435\u0440\u0438. \u041D\u0430\u043F\u0438\u0441\u0438 \u0431\u0443\u043B\u0438 \u0441\u0442\u0435\u0440\u0442\u0456 \u0432 1866 \u0440\u043E\u0446\u0456, \u043A\u043E\u043B\u0438 \u043A\u0430\u043C\u0456\u043D\u044C \u043F\u0435\u0440\u0435\u043E\u0433\u0440\u0430\u043D\u0438\u043B\u0438 \u0443 \u0444\u043E\u0440\u043C\u0456 \u043A\u0440\u0430\u043F\u043B\u0456, \u043C\u0430\u0441\u0430 \u0437\u043C\u0435\u043D\u0448\u0438\u043B\u0430\u0441\u044F \u0434\u043E 72 \u043A\u0430\u0440\u0430\u0442\u0456\u0432 (\u0437\u0430 \u0432\u043A\u0430\u0437\u0456\u0432\u043A\u043E\u044E \u043A\u0443\u043F\u0446\u044F \u0437 \u0410\u043D\u0433\u043B\u0456\u0457 \u0414\u0436\u043E\u0440\u0434\u0436\u0430 \u0411\u043B\u043E\u0433\u0430, \u0449\u043E \u043A\u0443\u043F\u0438\u0432 \u0439\u043E\u0433\u043E). \u0423 1870 \u0440\u043E\u0446\u0456 \u0431\u0443\u0432 \u043F\u0440\u0438\u0434\u0431\u0430\u043D\u0438\u0439 \u0433\u0435\u043A\u0432\u043E\u0440\u043E\u043C \u0411\u0430\u0440\u043E\u0434\u0430\u043C \u0437\u0430 350 \u0442\u0438\u0441. \u0440\u0443\u043F\u0456\u0439 (\u0449\u043E \u0432\u0456\u0434\u043F\u043E\u0432\u0456\u0434\u0430\u043B\u043E \u0431\u043B\u0438\u0437\u044C\u043A\u043E 26 \u0442\u0438\u0441. \u0444\u0443\u043D\u0442\u0456\u0432). \u0423 1926 \u0440\u043E\u0446\u0456 \u0432\u043B\u0430\u0441\u043D\u0438\u043A \u0437\u0430\u043C\u043E\u0432\u0438\u0432 \u0443 \u041A\u0430\u0440\u0442'\u0454 \u043D\u043E\u0432\u0443 \u043E\u043F\u0440\u0430\u0432\u0443 \u0437 \u043C\u043E\u0434\u043D\u043E\u0457 \u043F\u043B\u0430"@uk ,
+		"\u0428\u0430\u0445 \u0410\u043A\u0431\u0430\u0440 \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u0437\u043D\u0430\u043C\u0435\u043D\u0438\u0442\u044B\u0445 \u0430\u043B\u043C\u0430\u0437\u043E\u0432, \u043A\u0440\u0443\u043F\u043D\u044B\u0439 \u0430\u043B\u043C\u0430\u0437, \u0438\u043C\u0435\u0432\u0448\u0438\u0439 \u0434\u043E \u043E\u0433\u0440\u0430\u043D\u043A\u0438 \u043C\u0430\u0441\u0441\u0443 119 \u043A\u0430\u0440\u0430\u0442. \u0411\u0435\u0441\u0446\u0432\u0435\u0442\u043D\u044B\u0439 \u0430\u043B\u043C\u0430\u0437, \u0431\u044B\u043B \u043D\u0430\u0439\u0434\u0435\u043D \u0432 \u0418\u043D\u0434\u0438\u0438 \u0432 1618 \u0433\u043E\u0434\u0443 \u0438 \u0432\u0441\u0442\u0430\u0432\u043B\u0435\u043D \u0432 \u041F\u0430\u0432\u043B\u0438\u043D\u0438\u0439 \u0442\u0440\u043E\u043D (\u0442\u0440\u043E\u043D \u0432\u0435\u043B\u0438\u043A\u0438\u0445 \u041C\u043E\u0433\u043E\u043B\u043E\u0432) \u043A\u0430\u043A \u0433\u043B\u0430\u0437 \u043F\u0430\u0432\u043B\u0438\u043D\u0430. \u0418\u0437\u0432\u0435\u0441\u0442\u043D\u043E, \u0447\u0442\u043E \u0434\u0430\u043D\u043D\u044B\u0439 \u0430\u043B\u043C\u0430\u0437 \u044F\u0432\u043B\u044F\u043B\u0441\u044F \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0441\u0442\u044C\u044E \u0428\u0430\u0445-\u0410\u043A\u0431\u0430\u0440\u0430 \u0438 \u0431\u044B\u043B \u043D\u0430\u0437\u0432\u0430\u043D \u0432 \u0435\u0433\u043E \u0447\u0435\u0441\u0442\u044C, \u043F\u043E \u043F\u0440\u0438\u043A\u0430\u0437\u0443 \u0435\u0433\u043E \u043F\u0440\u0435\u0435\u043C\u043D\u0438\u043A\u0430 \u0428\u0430\u0445-\u0414\u0436\u0430\u0445\u0430\u043D\u0430. \u041F\u0440\u0435\u0434\u043F\u043E\u043B\u0430\u0433\u0430\u044E\u0442, \u0447\u0442\u043E \u043E\u043D \u0432\u043C\u0435\u0441\u0442\u0435 \u0441 \u0442\u0440\u043E\u043D\u043E\u043C \u043F\u043E\u043F\u0430\u043B \u0432 \u041F\u0435\u0440\u0441\u0438\u044E \u0432 1739 \u0433\u043E\u0434\u0443 \u043A\u0430\u043A \u0442\u0440\u043E\u0444\u0435\u0439. \u041D\u0430 \u0434\u0432\u0443\u0445 \u0435\u0433\u043E \u0433\u0440\u0430\u043D\u044F\u0445 \u0431\u044B\u043B\u0438 \u0432\u044B\u0440\u0435\u0437\u0430\u043D\u044B \u043D\u0430\u0434\u043F\u0438\u0441\u0438 \u043D\u0430 \u0430\u0440\u0430\u0431\u0441\u043A\u043E\u043C, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044E\u0442 1618 \u0438 1629 \u0433\u043E\u0434\u0430\u043C \u043D\u0430\u0448\u0435\u0439 \u044D\u0440\u044B. \u041E\u043D\u0438 \u0431\u044B\u043B\u0438 \u0441\u0442\u0451\u0440\u0442\u044B \u0432 1866 \u0433\u043E\u0434\u0443, \u043A\u043E\u0433\u0434\u0430 \u043A\u0430\u043C\u0435\u043D\u044C \u043F\u0435\u0440\u0435\u043E\u0433\u0440\u0430\u043D\u0438\u043B\u0438 \u0432 \u0444\u043E\u0440\u043C\u0435 \u043A\u0430\u043F\u043B\u0438, \u0430 \u0435\u0433\u043E \u0432\u0435\u0441 \u0443\u043C\u0435\u043D\u044C\u0448\u0438\u043B\u0441\u044F \u0434\u043E 72 \u043A\u0430\u0440\u0430\u0442\u043E\u0432 (\u043F\u043E \u0443\u043A\u0430\u0437\u0430\u043D\u0438\u044E \u043A\u0443\u043F\u0438\u0432\u0448\u0435\u0433\u043E \u0435\u0433\u043E \u043A\u0443\u043F\u0446\u0430 \u0438\u0437 \u0410\u043D\u0433\u043B\u0438\u0438 \u0414\u0436\u043E\u0440\u0434\u0436\u0430 \u0411\u043B\u043E\u0433\u0430). \u0412 1870 \u0433\u043E\u0434\u0443 \u0431\u044B\u043B \u043F\u0440\u0438\u043E\u0431\u0440\u0435\u0442\u0451\u043D \u0433\u044D\u043A\u0432\u043E\u0440\u043E\u043C \u0411\u0430\u0440\u043E\u0434\u0430\u043C \u0437\u0430 350000 \u0440\u0443\u043F\u0438\u0439 (\u0447\u0442\u043E \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u043E \u043F\u0440\u0438\u043C\u0435\u0440\u043D\u043E 26 000 \u0444\u0443\u043D\u0442\u043E\u0432). \u0412 1926 \u0433\u043E\u0434\u0443 \u0432\u043B\u0430\u0434"@ru ;
+	owl:sameAs	<http://ru.dbpedia.org/resource/\u0428\u0430\u0445_\u0410\u043A\u0431\u0430\u0440> ,
+		<https://global.dbpedia.org/id/2Jp21> ,
+		<http://uk.dbpedia.org/resource/\u0428\u0430\u0445_\u0410\u043A\u0431\u0430\u0440_(\u0430\u043B\u043C\u0430\u0437)> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Akbar_Shah_(diamond)>	owl:sameAs	dbpedia-nl:Akbar_shah ,
+		<http://rdf.freebase.com/ns/m.0hnffsh> ,
+		<http://yago-knowledge.org/resource/Akbar_Shah_(diamond)> ,
+		wikidata:Q2445319 ,
+		<http://ta.dbpedia.org/resource/\u0B85\u0B95\u0BCD\u0BAA\u0BB0\u0BCD_\u0BB7\u0BBE_(\u0BB5\u0BC8\u0BB0\u0BAE\u0BCD)> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Eliseev,_Grigorij_Zaharovich.jpg> ;
+	dct:subject	dbc:Jewels_of_the_Mughal_Empire ,
+		dbc:Golconda_diamonds ,
+		dbc:Baroda_State ,
+		dbc:History_of_India ,
+		dbc:History_of_Iran ;
+	dbo:wikiPageID	33833158 ;
+	dbo:wikiPageRevisionID	1018153359 ;
+	dbo:wikiPageWikiLink	dbr:Akbar ,
+		dbr:Peacock_Throne ,
+		dbr:Kurds ,
+		dbr:Afsharid_dynasty ,
+		dbr:Gemological_Institute_of_America ,
+		dbr:Arabic_language ,
+		dbr:Turkey ,
+		dbr:Iran ,
+		dbr:Mughal_dynasty ,
+		<http://dbpedia.org/resource/Carat_(mass)> ,
+		dbr:Malhar_Rao_Gaekwad ,
+		dbr:Baroda ,
+		dbr:Star_of_the_South ,
+		dbc:Jewels_of_the_Mughal_Empire ,
+		dbr:India ,
+		dbc:Golconda_diamonds ,
+		dbr:Istanbul ,
+		dbr:Diamond ,
+		dbr:Golconda_diamonds ,
+		dbc:Baroda_State ,
+		dbr:Nader_Shah ,
+		dbc:History_of_India ,
+		dbc:History_of_Iran ,
+		<http://dbpedia.org/resource/Jacques_Cartier_(jeweler)> ,
+		<http://dbpedia.org/resource/Empress_Eug\u00E9nie_(diamond)> ,
+		dbr:Hijri ,
+		dbr:Golconda_Fort ,
+		dbr:Jahangir ,
+		dbr:London ,
+		dbr:Shah_Jahan ;
+	dbo:wikiPageExternalLink	<https://www.thefridaytimes.com/a-diamond-that-bore-the-names-of-three-mughal-emperors/> ;
+	dbp:wikiPageUsesTemplate	dbt:Use_Indian_English ,
+		dbt:Reflist ,
+		dbt:Use_dmy_dates ,
+		dbt:Sources ,
+		dbt:When ;
+	gold:hypernym	dbr:Diamond ;
+	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Akbar_Shah_(diamond)?oldid=1018153359&ns=0> ;
+	dbo:wikiPageLength	"4669"^^xsd:nonNegativeInteger ;
+	dbo:abstract	"De Akbar shah oftewel \"De schittering van de pauwentroon\" is een uit de literatuur bekende grote diamant. De edelsteen wordt in verband gebracht met de Moghul-dynastie en hun fameuze pauwentroon. De grote onregelmatig gevormde en lichtgroene steen woog oorspronkelijk 116 karaat. Over de kleur wordt in de literatuur niets gezegd. De diamanten uit India zijn meestal zeer helder en \"wit\" oftewel kleurloos. De steen wordt voor het eerst vermeld in de (Memoires van Jahangir) waarin deze vorst zijn regering (1605\u201327) beschreef. In het handgeschreven boek staat bij de gebeurtenissen tijdens een verblijf in Gujarat, \" Op de vijfde vrijdag kwam Bahram, zoon van uit Bihar en hij was zo gelukkig zijn respect aan de vorst te mogen betonen. Hij legde aan mijn voeten een aantal diamanten uit de mijnen van \". De memoires zijn niet helemaal correct, de stenen werden niet in een mijn maar in een rivierbedding gevonden. In de genoemde streek zijn geen diamantmijnen. De steen werd in 1629 opnieuw in de literatuur genoemd. Historici strijden over de vraag of de steen deel uitmaakte van de pauwentroon zelf of van een versiersel van diamanten, smaragden en robijnen dat tegenover de troon was opgehangen. Het is mogelijk dat de beroemde daar heeft gehangen. In 1739 veroverde de Perzische heerser Nadir Shah Delhi. Hij bracht de pauwentroon als oorlogsbuit naar Teheran. Na de moord op Nadir Shah werden zijn schatkamers geplunderd. De buitgemaakte pauwentroon werd van zijn grote diamanten beroofd. De Akbar shah werd in februari 1866 in Constantinopel te koop aangeboden. De koper was de Londense diamantairsfirma Blogg&Martin die de steen door Levi Moses Auerhaan opnieuw liet slijpen. Daarbij gingen de historische inscripties verloren. De steen woog nu 73.60 karaat. De arabische inscripties waren gecaligrafeerd en zijn bekend van afgietsels die men in 1866 van de steen heeft gemaakt. Ze luidden in vertaling: 1) SHAH AKBAR HEER VAN DE WERELD 1028 A. H. Deze inscriptie is volgens de Europese jaartelling gedateerd in 1619, 39 jaar na het overlijden van Shah Akbar. 2) AAN DE HEER VAN DE BEIDE WERELDEN - 1039 A. H. - SHAH JAHAN Deze inscriptie is volgens de Europese jaartelling gedateerd in 1630, Jahan regeerde van 1627 tot 1658. In 1867 kocht , Gaekwad van Baroda, een van de schatrijke Indische maharadjas de steen voor 35000 pond. De steen maakt sindsdien deel uit van de juwelencollectie van zijn nakomelingen, maar hij werd jaren niet gezien. In 1936 zette Jacques Cartier de steen voor Maharaja Sayaji Rao Gaekwad III opnieuw, nu in een moderne platina hanger met briljanten. In 1988 gaven de erfgenamen van de heersers van Baroda, Fatehsinhrao Gaekwad en zijn gemalin Shantadevi, de Akbar shah samen met de en de Keizerin Eug\u00E9nie bij de Indiase belastingdienst op als hun bezittingen."@nl ,
+		"The Akbar Sh\u0101h, also known as the \"Lustre of the Peacock Throne\", is a diamond dating back to the Mughal dynasty of India. It is an irregular, pear-shaped diamond with a light green hue, weighing 73.60 carat. The names of three Mughal emperors Akbar, Jahangir and Shah Jahan were elegantly listed on its sides, which makes it prominent."@en ,
+		"\u0428\u0430\u0445 \u0410\u043A\u0431\u0430\u0440 \u2014 \u043E\u0434\u0438\u043D \u0456\u0437 \u0437\u043D\u0430\u043C\u0435\u043D\u0438\u0442\u0438\u0445 \u0430\u043B\u043C\u0430\u0437\u0456\u0432, \u044F\u043A\u0438\u0439 \u043C\u0430\u0432 \u0434\u043E \u043E\u0433\u0440\u0430\u043D\u043E\u0432\u0443\u0432\u0430\u043D\u043D\u044F \u043C\u0430\u0441\u0443 119 \u043A\u0430\u0440\u0430\u0442\u0456\u0432. \u0411\u0435\u0437\u0431\u0430\u0440\u0432\u043D\u0438\u0439 \u0430\u043B\u043C\u0430\u0437 \u0431\u0443\u0432 \u0437\u043D\u0430\u0439\u0434\u0435\u043D\u0438\u0439 \u0432 \u0406\u043D\u0434\u0456\u0457 \u0432 1618 \u0440\u043E\u0446\u0456. \u0411\u0443\u0432 \u0432\u0441\u0442\u0430\u0432\u043B\u0435\u043D\u0438\u0439 \u0432 \u041F\u0430\u0432\u0438\u043D\u0438\u0439 \u0442\u0440\u043E\u043D (\u0442\u0440\u043E\u043D \u0412\u0435\u043B\u0438\u043A\u0438\u0445 \u041C\u043E\u0433\u043E\u043B\u0456\u0432), \u044F\u043A \u043E\u043A\u043E \u043F\u0430\u0432\u0438\u0447\u0430. \u0412\u0456\u0434\u043E\u043C\u043E \u0449\u043E \u0446\u0435\u0439 \u0430\u043B\u043C\u0430\u0437 \u0431\u0443\u0432 \u0432\u043B\u0430\u0441\u043D\u0456\u0441\u0442\u044E \u0456 \u0431\u0443\u0432 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0439 \u043D\u0430 \u0439\u043E\u0433\u043E \u0447\u0435\u0441\u0442\u044C, \u0437\u0430 \u043D\u0430\u043A\u0430\u0437\u043E\u043C \u0439\u043E\u0433\u043E \u043D\u0430\u0441\u0442\u0443\u043F\u043D\u0438\u043A\u0430 . \u041F\u0440\u0438\u043F\u0443\u0441\u043A\u0430\u044E\u0442\u044C \u0449\u043E \u0432\u0456\u043D \u043F\u043E\u0442\u0440\u0430\u043F\u0438\u0432 \u0434\u043E \u041F\u0435\u0440\u0441\u0456\u0457 \u044F\u043A \u0442\u0440\u043E\u0444\u0435\u0439 \u0432 1739 \u0440\u043E\u0446\u0456 \u0440\u0430\u0437\u043E\u043C \u0437 \u0442\u0440\u043E\u043D\u043E\u043C. \u041D\u0430 \u0434\u0432\u043E\u0445 \u0439\u043E\u0433\u043E \u0433\u0440\u0430\u043D\u044F\u0445 \u0431\u0443\u043B\u0438 \u0432\u0438\u0440\u0456\u0437\u0430\u043D\u0456 \u043D\u0430\u043F\u0438\u0441\u0438 \u0430\u0440\u0430\u0431\u0441\u044C\u043A\u043E\u044E, \u044F\u043A\u0456 \u0432\u0456\u0434\u043F\u043E\u0432\u0456\u0434\u0430\u044E\u0442\u044C 1618 \u0456 1629 \u0440\u043E\u043A\u0430\u043C \u043D\u0430\u0448\u043E\u0457 \u0435\u0440\u0438. \u041D\u0430\u043F\u0438\u0441\u0438 \u0431\u0443\u043B\u0438 \u0441\u0442\u0435\u0440\u0442\u0456 \u0432 1866 \u0440\u043E\u0446\u0456, \u043A\u043E\u043B\u0438 \u043A\u0430\u043C\u0456\u043D\u044C \u043F\u0435\u0440\u0435\u043E\u0433\u0440\u0430\u043D\u0438\u043B\u0438 \u0443 \u0444\u043E\u0440\u043C\u0456 \u043A\u0440\u0430\u043F\u043B\u0456, \u043C\u0430\u0441\u0430 \u0437\u043C\u0435\u043D\u0448\u0438\u043B\u0430\u0441\u044F \u0434\u043E 72 \u043A\u0430\u0440\u0430\u0442\u0456\u0432 (\u0437\u0430 \u0432\u043A\u0430\u0437\u0456\u0432\u043A\u043E\u044E \u043A\u0443\u043F\u0446\u044F \u0437 \u0410\u043D\u0433\u043B\u0456\u0457 \u0414\u0436\u043E\u0440\u0434\u0436\u0430 \u0411\u043B\u043E\u0433\u0430, \u0449\u043E \u043A\u0443\u043F\u0438\u0432 \u0439\u043E\u0433\u043E). \u0423 1870 \u0440\u043E\u0446\u0456 \u0431\u0443\u0432 \u043F\u0440\u0438\u0434\u0431\u0430\u043D\u0438\u0439 \u0433\u0435\u043A\u0432\u043E\u0440\u043E\u043C \u0411\u0430\u0440\u043E\u0434\u0430\u043C \u0437\u0430 350 \u0442\u0438\u0441. \u0440\u0443\u043F\u0456\u0439 (\u0449\u043E \u0432\u0456\u0434\u043F\u043E\u0432\u0456\u0434\u0430\u043B\u043E \u0431\u043B\u0438\u0437\u044C\u043A\u043E 26 \u0442\u0438\u0441. \u0444\u0443\u043D\u0442\u0456\u0432). \u0423 1926 \u0440\u043E\u0446\u0456 \u0432\u043B\u0430\u0441\u043D\u0438\u043A \u0437\u0430\u043C\u043E\u0432\u0438\u0432 \u0443 \u041A\u0430\u0440\u0442'\u0454 \u043D\u043E\u0432\u0443 \u043E\u043F\u0440\u0430\u0432\u0443 \u0437 \u043C\u043E\u0434\u043D\u043E\u0457 \u043F\u043B\u0430\u0442\u0438\u043D\u0438."@uk ,
+		"\u0428\u0430\u0445 \u0410\u043A\u0431\u0430\u0440 \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u0437\u043D\u0430\u043C\u0435\u043D\u0438\u0442\u044B\u0445 \u0430\u043B\u043C\u0430\u0437\u043E\u0432, \u043A\u0440\u0443\u043F\u043D\u044B\u0439 \u0430\u043B\u043C\u0430\u0437, \u0438\u043C\u0435\u0432\u0448\u0438\u0439 \u0434\u043E \u043E\u0433\u0440\u0430\u043D\u043A\u0438 \u043C\u0430\u0441\u0441\u0443 119 \u043A\u0430\u0440\u0430\u0442. \u0411\u0435\u0441\u0446\u0432\u0435\u0442\u043D\u044B\u0439 \u0430\u043B\u043C\u0430\u0437, \u0431\u044B\u043B \u043D\u0430\u0439\u0434\u0435\u043D \u0432 \u0418\u043D\u0434\u0438\u0438 \u0432 1618 \u0433\u043E\u0434\u0443 \u0438 \u0432\u0441\u0442\u0430\u0432\u043B\u0435\u043D \u0432 \u041F\u0430\u0432\u043B\u0438\u043D\u0438\u0439 \u0442\u0440\u043E\u043D (\u0442\u0440\u043E\u043D \u0432\u0435\u043B\u0438\u043A\u0438\u0445 \u041C\u043E\u0433\u043E\u043B\u043E\u0432) \u043A\u0430\u043A \u0433\u043B\u0430\u0437 \u043F\u0430\u0432\u043B\u0438\u043D\u0430. \u0418\u0437\u0432\u0435\u0441\u0442\u043D\u043E, \u0447\u0442\u043E \u0434\u0430\u043D\u043D\u044B\u0439 \u0430\u043B\u043C\u0430\u0437 \u044F\u0432\u043B\u044F\u043B\u0441\u044F \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0441\u0442\u044C\u044E \u0428\u0430\u0445-\u0410\u043A\u0431\u0430\u0440\u0430 \u0438 \u0431\u044B\u043B \u043D\u0430\u0437\u0432\u0430\u043D \u0432 \u0435\u0433\u043E \u0447\u0435\u0441\u0442\u044C, \u043F\u043E \u043F\u0440\u0438\u043A\u0430\u0437\u0443 \u0435\u0433\u043E \u043F\u0440\u0435\u0435\u043C\u043D\u0438\u043A\u0430 \u0428\u0430\u0445-\u0414\u0436\u0430\u0445\u0430\u043D\u0430. \u041F\u0440\u0435\u0434\u043F\u043E\u043B\u0430\u0433\u0430\u044E\u0442, \u0447\u0442\u043E \u043E\u043D \u0432\u043C\u0435\u0441\u0442\u0435 \u0441 \u0442\u0440\u043E\u043D\u043E\u043C \u043F\u043E\u043F\u0430\u043B \u0432 \u041F\u0435\u0440\u0441\u0438\u044E \u0432 1739 \u0433\u043E\u0434\u0443 \u043A\u0430\u043A \u0442\u0440\u043E\u0444\u0435\u0439. \u041D\u0430 \u0434\u0432\u0443\u0445 \u0435\u0433\u043E \u0433\u0440\u0430\u043D\u044F\u0445 \u0431\u044B\u043B\u0438 \u0432\u044B\u0440\u0435\u0437\u0430\u043D\u044B \u043D\u0430\u0434\u043F\u0438\u0441\u0438 \u043D\u0430 \u0430\u0440\u0430\u0431\u0441\u043A\u043E\u043C, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044E\u0442 1618 \u0438 1629 \u0433\u043E\u0434\u0430\u043C \u043D\u0430\u0448\u0435\u0439 \u044D\u0440\u044B. \u041E\u043D\u0438 \u0431\u044B\u043B\u0438 \u0441\u0442\u0451\u0440\u0442\u044B \u0432 1866 \u0433\u043E\u0434\u0443, \u043A\u043E\u0433\u0434\u0430 \u043A\u0430\u043C\u0435\u043D\u044C \u043F\u0435\u0440\u0435\u043E\u0433\u0440\u0430\u043D\u0438\u043B\u0438 \u0432 \u0444\u043E\u0440\u043C\u0435 \u043A\u0430\u043F\u043B\u0438, \u0430 \u0435\u0433\u043E \u0432\u0435\u0441 \u0443\u043C\u0435\u043D\u044C\u0448\u0438\u043B\u0441\u044F \u0434\u043E 72 \u043A\u0430\u0440\u0430\u0442\u043E\u0432 (\u043F\u043E \u0443\u043A\u0430\u0437\u0430\u043D\u0438\u044E \u043A\u0443\u043F\u0438\u0432\u0448\u0435\u0433\u043E \u0435\u0433\u043E \u043A\u0443\u043F\u0446\u0430 \u0438\u0437 \u0410\u043D\u0433\u043B\u0438\u0438 \u0414\u0436\u043E\u0440\u0434\u0436\u0430 \u0411\u043B\u043E\u0433\u0430). \u0412 1870 \u0433\u043E\u0434\u0443 \u0431\u044B\u043B \u043F\u0440\u0438\u043E\u0431\u0440\u0435\u0442\u0451\u043D \u0433\u044D\u043A\u0432\u043E\u0440\u043E\u043C \u0411\u0430\u0440\u043E\u0434\u0430\u043C \u0437\u0430 350000 \u0440\u0443\u043F\u0438\u0439 (\u0447\u0442\u043E \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u043E \u043F\u0440\u0438\u043C\u0435\u0440\u043D\u043E 26 000 \u0444\u0443\u043D\u0442\u043E\u0432). \u0412 1926 \u0433\u043E\u0434\u0443 \u0432\u043B\u0430\u0434\u0435\u043B\u0435\u0446 \u0437\u0430\u043A\u0430\u0437\u0430\u043B \u0443 \u041A\u0430\u0440\u0442\u044C\u0435 \u043D\u043E\u0432\u0443\u044E \u043E\u043F\u0440\u0430\u0432\u0443 \u0438\u0437 \u043C\u043E\u0434\u043D\u043E\u0439 \u043F\u043B\u0430\u0442\u0438\u043D\u044B."@ru ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Akbar_Shah_(diamond)> .
+dbr:MTV_Video_Music_Awards_Japan	dbo:wikiPageWikiLink	dbr:Aisubeki_Mirai_e .
+dbr:Ajil	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Aj\u00EEl-e_Moshkel-gosh\u00E2> .
+<http://dbpedia.org/resource/2009_in_Japanese_music>	dbo:wikiPageWikiLink	dbr:Aisubeki_Mirai_e .
+<http://dbpedia.org/resource/2010_MTV_World_Stage_VMAJ>	dbo:wikiPageWikiLink	dbr:Aisubeki_Mirai_e .
+<http://dbpedia.org/resource/2010_in_Japanese_music>	dbo:wikiPageWikiLink	dbr:Aisubeki_Mirai_e .
+dbr:Rizwan-ul-Haq	dbo:wikiPageWikiLink	dbr:Aitebar .
+dbr:Iranian_folklore	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Aj\u00EEl-e_Moshkel-gosh\u00E2> .
+<http://dbpedia.org/resource/Shin\u0027ai_Naru_Mono_e>	dbo:wikiPageWikiLink	dbr:Aishiteiru_to_Ittekure ;
+	dbp:prevTitle	dbr:Aishiteiru_to_Ittekure .
+dbr:Tenhi	dbo:wikiPageWikiLink	ns16:aamujen .
+dbr:Ima_no_Kimochi	dbo:wikiPageWikiLink	dbr:Aishiteiru_to_Ittekure .
+<http://dbpedia.org/resource/Kashmir_(Pakistani_band)>	dbo:wikiPageWikiLink	dbr:Aitebar .
+<http://dbpedia.org/resource/Arigat\u014D_(Miyuki_Nakajima_album)>	dbo:wikiPageWikiLink	dbr:Aishiteiru_to_Ittekure ;
+	dbp:nextTitle	dbr:Aishiteiru_to_Ittekure .
+dbr:Awaz	dbo:wikiPageWikiLink	dbr:Aitebar .
+dbr:Pepsi_Battle_of_the_Bands	dbo:wikiPageWikiLink	dbr:Aitebar .
+<http://dbpedia.org/resource/B\u0142a\u017Cy\u0144ski_Polon>	dbo:wikiPageWikiLink	dbr:Akaflieg_Darmstadt_D-9_Konsul .
+<http://dbpedia.org/resource/Takahiro_(singer)>	dbo:wikiPageWikiLink	dbr:Aisubeki_Mirai_e .
+dbr:Telangana	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Akbar_Shah_(diamond)> .
+dbr:Billboard_Japan_Music_Awards	dbo:wikiPageWikiLink	dbr:Aisubeki_Mirai_e .
+dbr:Miyuki_Nakajima	dbo:wikiPageWikiLink	dbr:Aishiteiru_to_Ittekure .
+<http://dbpedia.org/resource/Vital_Signs_(band)>	dbo:wikiPageWikiLink	dbr:Aitebar .
+dbr:MTV_Video_Music_Award_Japan_for_Album_of_the_Year	dbo:wikiPageWikiLink	dbr:Aisubeki_Mirai_e .
+<http://dbpedia.org/resource/V\u00E4rttin\u00E4>	dbo:wikiPageWikiLink	dbr:Aitara .
+dbr:Vital_Signs_2	dbo:wikiPageWikiLink	dbr:Aitebar ;
+	dbp:nextTitle	dbr:Aitebar .
+dbr:Asad_Ahmed	dbo:wikiPageWikiLink	dbr:Aitebar .
+dbr:Atif_Aslam_discography	dbo:wikiPageWikiLink	dbr:Aitebar .
+<http://dbpedia.org/resource/Love_(Japanese_band)>	dbo:wikiPageWikiLink	dbr:Aisubeki_Mirai_e .
+<http://dbpedia.org/resource/Hum_Tum_(album)>	dbo:wikiPageWikiLink	dbr:Aitebar ;
+	dbp:prevTitle	dbr:Aitebar .
+dbr:Aishiteiru_to_ittekure	dbo:wikiPageWikiLink	dbr:Aishiteiru_to_Ittekure ;
+	dbo:wikiPageRedirects	dbr:Aishiteiru_to_Ittekure .
+dbr:Aima_Baig	dbo:wikiPageWikiLink	dbr:Aitebar .
+dbr:Akaflieg_Darmstadt_D-28_Windspiel	dbo:wikiPageWikiLink	dbr:Akaflieg_Darmstadt_D-9_Konsul .
+<http://dbpedia.org/resource/Exile_(Japanese_band)>	dbo:wikiPageWikiLink	dbr:Aisubeki_Mirai_e .
+dbr:RRG_Fafnir	dbo:wikiPageWikiLink	dbr:Akaflieg_Darmstadt_D-9_Konsul .
+dbr:Teichfuss_Gabbiano	dbo:wikiPageWikiLink	dbr:Akaflieg_Darmstadt_D-9_Konsul .
+dbr:Golconda_diamonds	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Akbar_Shah_(diamond)> .
+dbr:Junaid_Jamshed	dbo:wikiPageWikiLink	dbr:Aitebar .
+dbr:Ali_Zafar_discography	dbo:wikiPageWikiLink	dbr:Aitebar .
+dbr:Ajil-e_Moshkel-gosha	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Aj\u00EEl-e_Moshkel-gosh\u00E2> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Aj\u00EEl-e_Moshkel-gosh\u00E2> .
+dbr:List_of_Vital_Signs_band_members	dbo:wikiPageWikiLink	dbr:Aitebar .
+dbr:List_of_best-selling_albums_in_Japan	dbo:wikiPageWikiLink	dbr:Aisubeki_Mirai_e .
+dbr:Wakareuta	dbo:wikiPageWikiLink	dbr:Aishiteiru_to_Ittekure ;
+	dbp:album	dbr:Aishiteiru_to_Ittekure ;
+	dbo:album	dbr:Aishiteiru_to_Ittekure .
+dbr:Iranian_cuisine	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Aj\u00EEl-e_Moshkel-gosh\u00E2> .
+dbr:Seleniko	dbo:wikiPageWikiLink	dbr:Aitara ;
+	dbp:nextTitle	dbr:Aitara .
+dbr:Qutb_Shahi_dynasty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Akbar_Shah_(diamond)> .
+<http://dbpedia.org/resource/Snow_Angel_(album)>	dbo:wikiPageWikiLink	dbr:Aitara .
+dbr:List_of_Iranian_foods	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Aj\u00EEl-e_Moshkel-gosh\u00E2> .
+dbr:List_of_diamonds	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Akbar_Shah_(diamond)> .
+<http://dbpedia.org/resource/List_of_gliders_(A)>	dbo:wikiPageWikiLink	dbr:Akaflieg_Darmstadt_D-9_Konsul .
+dbr:Golconda_Fort	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Akbar_Shah_(diamond)> .
+dbr:Shoaib_Mansoor	dbo:wikiPageWikiLink	dbr:Aitebar .
+dbr:Teichfuss_Tenax	dbo:wikiPageWikiLink	dbr:Akaflieg_Darmstadt_D-9_Konsul .
+dbr:Vital_Signs_discography	dbo:wikiPageWikiLink	dbr:Aitebar .
+dbr:Darmstadt_D-9_Konsul	dbo:wikiPageWikiLink	dbr:Akaflieg_Darmstadt_D-9_Konsul ;
+	dbo:wikiPageRedirects	dbr:Akaflieg_Darmstadt_D-9_Konsul .
+dbr:List_of_Oricon_number-one_albums_of_2009	dbo:wikiPageWikiLink	dbr:Aisubeki_Mirai_e .
+<http://dbpedia.org/resource/List_of_aircraft_(Ai\u2013Am)>	dbo:wikiPageWikiLink	dbr:Akaflieg_Darmstadt_D-9_Konsul .
+dbr:Miyuki_Nakajima_discography	dbo:wikiPageWikiLink	dbr:Aishiteiru_to_Ittekure .
+dbr:Esthisis	dbo:wikiPageWikiLink	dbr:Aisthiseis ;
+	dbo:wikiPageRedirects	dbr:Aisthiseis .
+<http://dbpedia.org/resource/\u611B\u3059\u3079\u304D\u672A\u6765\u3078>	dbo:wikiPageWikiLink	dbr:Aisubeki_Mirai_e ;
+	dbo:wikiPageRedirects	dbr:Aisubeki_Mirai_e .
+dbr:Akbar_Shah_diamond	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Akbar_Shah_(diamond)> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Akbar_Shah_(diamond)> .
+<http://en.wikipedia.org/wiki/Airshow_(album)>	foaf:primaryTopic	<http://dbpedia.org/resource/Airshow_(album)> .
+ns21:aamujen	foaf:primaryTopic	ns16:aamujen .
+wikipedia-en:Aishiteiru_to_Ittekure	foaf:primaryTopic	dbr:Aishiteiru_to_Ittekure .
+wikipedia-en:Aisthiseis	foaf:primaryTopic	dbr:Aisthiseis .
+wikipedia-en:Aisubeki_Mirai_e	foaf:primaryTopic	dbr:Aisubeki_Mirai_e .
+wikipedia-en:Aitara	foaf:primaryTopic	dbr:Aitara .
+wikipedia-en:Aitebar	foaf:primaryTopic	dbr:Aitebar .
+<http://en.wikipedia.org/wiki/Aj\u00EEl-e_Moshkel-gosh\u00E2>	foaf:primaryTopic	<http://dbpedia.org/resource/Aj\u00EEl-e_Moshkel-gosh\u00E2> .
+wikipedia-en:Akaflieg_Darmstadt_D-9_Konsul	foaf:primaryTopic	dbr:Akaflieg_Darmstadt_D-9_Konsul .
+<http://en.wikipedia.org/wiki/Akbar_Shah_(diamond)>	foaf:primaryTopic	<http://dbpedia.org/resource/Akbar_Shah_(diamond)> .
